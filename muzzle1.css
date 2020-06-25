@@ -1,0 +1,263 @@
+@charset "utf-8";
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
+  /* background-color: #CCCCCC; */
+}
+
+header {
+  border-top: 1px solid rgb( 0, 0, 0);
+  border-bottom: 2px solid rgb( 0, 0, 0);
+  background-color: rgb(193, 84, 25);
+  height: 60px;
+}
+
+.header-list {
+  text-align: left;
+}
+header img {
+  width: 180px;
+  float: left;
+  padding: 15px 20px 0 20px;
+}
+
+.header-list li {
+  list-style: none;
+  float: right;
+  width: 100px;
+  padding: 20px 20px;
+}
+.header-list li a {
+  text-decoration: none;
+}
+header li a {
+  color: #fff;
+}
+.header-list li a:hover,
+.header-list li a:active,
+.header-list li.current a {
+  /* background-color: rgb(154,65,17); */
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+.clearfix:after {
+  content: '';
+  display: block;
+  clear: both;
+  /* margin-bottom: 20px; */
+}
+
+main {
+  background-color: rgb(242,210,172);
+  margin: 0 auto;
+  /* height: 1000px; */
+  /* width: 844px; */
+  /* text-align: center; */
+}
+
+.main_image {
+  /* margin-bottom: 10px; */
+  text-align: center;
+}
+main h1 {
+  font-size: 30px;
+  text-align: left;
+  margin:20px;
+}
+
+nav ul {
+  width: 1000px;
+  text-align: center;
+  /*   下のautoを30にする*/
+  margin: 0 auto 30px auto;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+nav ul li {
+  float: left;
+  width: 166px;
+  /* margin-right: 2px; */
+  text-align: center;
+}
+
+nav ul li:last-child {
+  border-right: 2px solid black;
+}
+nav ul li a {
+  display: block;
+  padding: 20px 0;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  text-decoration: none;
+  color: #fff;
+  background-color: rgb(193, 84, 25);
+}
+
+nav ul li a:hover,
+nav ul li a:active{
+  background-color: #000;
+}
+.wrapper {
+  margin: 0 auto;
+  text-align: center;
+  width:800px;
+  }
+.text {
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 20px;
+}
+#language-wrapper{
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.language-text {
+  display: none;
+  font-size: 20px;
+  font-weight:bold;
+  margin-top: 10px;
+}
+
+
+/* .float_none {
+	clear: both;
+} */
+.new {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.mask {
+  float:left;
+  margin-left: 52px;
+  margin-right: 20px;
+  /* margin-bottom: 20px; */
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+  }
+
+.copy_text {
+  text-align: left;
+  padding-top: 30px;
+  font-weight: bold;
+  width:1000px;
+  line-height:2.5;
+}
+
+.sub_text {
+  display: inline-block;
+  text-align: left;
+  font-weight:bold;
+  font-size: 18px;
+  margin: 0 auto;
+}
+
+.container_item {
+  width: 1000px;
+  text-align: center;
+  margin: 0 auto;
+}
+.container_item h1 {
+  color: red;
+  font-weight: bold;
+  font-size: 30px;
+}
+.container_item p {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin: 10px;
+}
+
+.item {
+  float: left;
+  margin: 0 10px 10px 10px;
+}
+.btn-img{
+  border-style: none;
+}
+.btn-img:hover{
+  opacity: 0.6;
+}
+
+.comment {
+  margin: 20px auto;
+  width:800px;
+  text-align: center;
+  font-weight: bold;
+}
+h4 {
+  /* margin-top:10px; */
+  font-size:10px;
+  font-weight:normal;
+}
+footer {
+  padding: 15px;
+  text-align: center;
+  color: rgb( 0, 0, 0);
+  background-color: rgb(193, 84, 25);
+  border-top: 1px solid rgb( 0, 0, 0);
+  border-bottom: 2px solid rgb( 0, 0, 0);
+}
+
+footer ul {
+  margin-bottom: 20px;
+}
+footer ul li {
+  display: inline;
+  padding: 0 10px;
+}
+
+footer ul li a {
+  color: #fff;
+}
+footer ul li a:link {
+  text-decoration: none;
+}
+footer ul li a:hover,
+footer ul li a:active {
+text-decoration: underline;
+}
+
+.prof_image {
+  float:left;
+  margin-left: 40px;
+}
+.copy_text2 {
+  width:500px;
+  margin-top: 100px;
+  margin-bottom:30px;
+  margin-left: 450px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 25px;
+  line-height:2.0;
+}
+.copy_text3 {
+  font-weight: bold;
+  text-align: left;
+  width: 1000px;
+  margin: 20px auto;
+  font-size: 20px;
+  line-height:1.2;
+}
+.copy_text4 {
+
+  font-weight: bold;
+  text-align: left;
+  width: 1000px;
+  margin: 100px auto;
+  font-size: 20px;
+  line-height:1.2;
+}
+.page1 {
+  background-color: rgb(182,203,128);
+  margin: 0 auto;
+}
