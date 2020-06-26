@@ -213,6 +213,7 @@ footer ul {
 footer ul li {
   display: inline;
   padding: 0 10px;
+　margin: 0 auto;
 }
 
 footer ul li a {
