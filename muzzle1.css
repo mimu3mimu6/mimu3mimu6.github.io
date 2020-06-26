@@ -238,7 +238,7 @@ text-decoration: underline;
   text-align: left;
   font-weight: bold;
   font-size: 25px;
-  line-height:2.0;
+  line-height:1.5;
 }
 .copy_text3 {
   font-weight: bold;
@@ -246,7 +246,7 @@ text-decoration: underline;
   width: 1000px;
   margin: 20px auto;
   font-size: 20px;
-  line-height:1.2;
+  line-height:1.0;
 }
 .copy_text4 {
 
@@ -255,7 +255,7 @@ text-decoration: underline;
   width: 1000px;
   margin: 100px auto;
   font-size: 20px;
-  line-height:1.2;
+  line-height:1.0;
 }
 .page1 {
   background-color: rgb(182,203,128);
