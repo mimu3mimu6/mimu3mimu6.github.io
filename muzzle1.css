@@ -61,7 +61,7 @@ main {
 main h1 {
   font-size: 30px;
   text-align: left;
-  margin:20px;
+  margin: 20px;
 }
 
 nav ul {
@@ -101,7 +101,7 @@ nav ul li a:active{
 .wrapper {
   margin: 0 auto;
   text-align: center;
-  width:800px;
+  width: 800px;
   }
 .text {
   display: inline-block;
@@ -116,7 +116,7 @@ nav ul li a:active{
 .language-text {
   display: none;
   font-size: 20px;
-  font-weight:bold;
+  font-weight: bold;
   margin-top: 10px;
 }
 
@@ -126,11 +126,12 @@ nav ul li a:active{
 } */
 .new {
   text-align: center;
+  margin-top: 20px;
   margin-bottom: 30px;
 }
 
 .mask {
-  float:left;
+  float: left;
   margin-left: 52px;
   margin-right: 20px;
   /* margin-bottom: 20px; */
@@ -147,14 +148,14 @@ nav ul li a:active{
   text-align: left;
   padding-top: 30px;
   font-weight: bold;
-  width:1000px;
-  line-height:1.5;
+  width: 1000px;
+  line-height: 1.5;
 }
 
 .sub_text {
   display: inline-block;
   text-align: left;
-  font-weight:bold;
+  font-weight: bold;
   font-size: 18px;
   margin: 0 auto;
 }
@@ -189,14 +190,14 @@ nav ul li a:active{
 
 .comment {
   margin: 20px auto;
-  width:800px;
+  width: 800px;
   text-align: center;
   font-weight: bold;
 }
 h4 {
   /* margin-top:10px; */
-  font-size:10px;
-  font-weight:normal;
+  font-size: 10px;
+  font-weight: normal;
 }
 footer {
   padding: 15px;
@@ -228,18 +229,18 @@ text-decoration: underline;
 }
 
 .prof_image {
-  float:left;
+  float: left;
   margin-left: 40px;
 }
 .copy_text2 {
-  width:500px;
+  width: 500px;
   margin-top: 60px;
-  margin-bottom:30px;
+  margin-bottom: 30px;
   margin-left: 450px;
   text-align: left;
   font-weight: bold;
   font-size: 25px;
-  line-height:1.5;
+  line-height: 1.5;
 }
 .copy_text3 {
   font-weight: bold;
@@ -247,7 +248,7 @@ text-decoration: underline;
   width: 1000px;
   margin: 40px auto;
   font-size: 20px;
-  line-height:1.0;
+  line-height: 1.0;
 }
 .copy_text4 {
 
@@ -256,7 +257,7 @@ text-decoration: underline;
   width: 1000px;
   margin: 100px auto;
   font-size: 20px;
-  line-height:1.0;
+  line-height: 1.0;
 }
 .page1 {
   background-color: rgb(182,203,128);
