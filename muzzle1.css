@@ -316,7 +316,7 @@ main h2 {
   text-align: left;
   width: 730px;
   margin: 40px auto;
-  border-left: 6px solid brown;
+  border: 6px solid brown;
   padding-left: 10px;
   font-size: 18px;
 }
@@ -329,7 +329,7 @@ main h2 {
   font-weight: bold;
   line-height: 10px;
   margin: 10px 0;
-/*   color: pink; */
+  color: pink;
 }
 .wrapper3 {
   font-size: 26px;
