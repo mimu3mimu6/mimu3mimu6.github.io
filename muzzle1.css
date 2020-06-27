@@ -296,6 +296,12 @@ main h2 {
   font-size: 30px;
   text-align: left;
 }
+.wrapper4 {
+  font-size: 26px;
+  margin: 50px auto;
+  text-align: left;
+  width: 1000px;
+}
 .copy_text5 {
   font-weight: bold;
   text-align: left;
@@ -319,6 +325,10 @@ main h2 {
   text-align: center;
   width: 740px;
 }
+.wrapper2 p {
+  font-weight: bold;
+  line-height: 10px;
+}
 .wrapper3 {
   font-size: 26px;
   margin: 50px auto;
@@ -328,10 +338,4 @@ main h2 {
 .wrapper3 p {
   font-weight: bold;
   line-height: 10px;
-}
-.wrapper4 {
-  font-size: 26px;
-  margin: 50px auto;
-  text-align: left;
-  width: 1000px;
 }
