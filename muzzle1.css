@@ -149,7 +149,7 @@ nav ul li a:active{
   padding-top: 30px;
   font-weight: bold;
   width: 1000px;
-  line-height: 1.5;
+/*   line-height: 1.5; */
 }
 
 .sub_text {
@@ -240,7 +240,7 @@ text-decoration: underline;
   text-align: left;
   font-weight: bold;
   font-size: 25px;
-  line-height: 1.5;
+/*   line-height: 1.5; */
 }
 .copy_text3 {
   font-weight: bold;
@@ -248,7 +248,7 @@ text-decoration: underline;
   width: 1000px;
   margin: 40px auto;
   font-size: 20px;
-  line-height: 1.0;
+/*   line-height: 1.0; */
 }
 .copy_text4 {
 
@@ -257,7 +257,7 @@ text-decoration: underline;
   width: 1000px;
   margin: 100px auto;
   font-size: 20px;
-  line-height: 1.0;
+/*   line-height: 1.0; */
 }
 .page1 {
   background-color: rgb(182,203,128);
@@ -305,7 +305,7 @@ margin-top: 5px;
   border-left: 6px solid gray;
   padding-left: 10px;
   font-size: 20px;
-  line-height: 1.2;
+/*   line-height: 1.2; */
 }
 main h2 {
   font-size: 30px;
@@ -320,7 +320,6 @@ main h2 {
   border-left: 6px solid brown;
   padding-left: 10px;
   font-size: 20px;
-  line-height: 10px;
 }
 .wrapper3 {
   font-size: 26px;
