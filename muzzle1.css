@@ -320,6 +320,7 @@ main h2 {
   border-left: 6px solid brown;
   padding-left: 10px;
   font-size: 20px;
+  line-height: 1.2;
 }
 .wrapper3 {
   font-size: 26px;
