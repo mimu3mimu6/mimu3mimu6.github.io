@@ -340,3 +340,6 @@ main h2 {
   font-weight: bold;
   line-height: 10px;
 }
+p {
+margin: 10px 0;
+}
