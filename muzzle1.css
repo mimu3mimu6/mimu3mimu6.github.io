@@ -305,7 +305,6 @@ margin-top: 5px;
   border-left: 6px solid gray;
   padding-left: 10px;
   font-size: 20px;
-  line-height: 0.6;
 }
 main h2 {
   font-size: 30px;
@@ -320,13 +319,14 @@ main h2 {
   border-left: 6px solid brown;
   padding-left: 10px;
   font-size: 20px;
-  line-height: 0.6;
 }
 .wrapper3 {
   font-size: 26px;
   margin: 50px auto;
   text-align: left;
   width: 740px;
+}
+.wrapper3 p {
   font-weight: bold;
 }
 .wrapper4 {
