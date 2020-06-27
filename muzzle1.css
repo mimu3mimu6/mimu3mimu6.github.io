@@ -313,7 +313,6 @@ main h2 {
   text-align: left;
 }
 .copy_text6 {
-
   font-weight: bold;
   text-align: left;
   width: 730px;
@@ -323,15 +322,11 @@ main h2 {
   font-size: 20px;
   line-height: 10px;
 }
-.copy_text6 p {
-  line-height: 10px;
-}
 .wrapper3 {
   font-size: 26px;
   margin: 50px auto;
   text-align: left;
   width: 740px;
-  padding-left: 400px;
 }
 .wrapper3 p {
   font-weight: bold;
