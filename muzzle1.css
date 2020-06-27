@@ -2,7 +2,6 @@
 body {
   font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
   /* background-color: #CCCCCC; */
-	  line-height: 0.8;
 }
 
 header {
@@ -328,4 +327,10 @@ main h2 {
   margin: 50px auto;
   text-align: left;
   width: 740px;
+}
+.wrapper4 {
+  font-size: 26px;
+  margin: 50px auto;
+  text-align: left;
+  width: 1000px;
 }
