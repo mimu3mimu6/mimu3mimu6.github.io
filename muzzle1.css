@@ -295,6 +295,7 @@ margin-top: 5px;
   margin: 150px auto;
   text-align: center;
   width: 740px;
+	
 }
 .copy_text5 {
 
@@ -305,6 +306,7 @@ margin-top: 5px;
   border-left: 6px solid gray;
   padding-left: 10px;
   font-size: 20px;
+  line-height: 10px;
 }
 main h2 {
   font-size: 30px;
@@ -319,6 +321,7 @@ main h2 {
   border-left: 6px solid brown;
   padding-left: 10px;
   font-size: 20px;
+  line-height: 10px;
 }
 .wrapper3 {
   font-size: 26px;
