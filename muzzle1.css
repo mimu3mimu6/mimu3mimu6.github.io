@@ -109,7 +109,6 @@ nav ul li a:active{
   margin-bottom: 20px;
 }
 #language-wrapper{
-  margin-top: 50px;
   margin-left: 30px;
 }
 
@@ -329,7 +328,6 @@ main h2 {
   font-weight: bold;
   line-height: 10px;
   margin: 10px 0;
-/*   color: pink; */
 }
 .wrapper3 {
   font-size: 26px;
@@ -340,5 +338,44 @@ main h2 {
 .wrapper3 p {
   font-weight: bold;
   line-height: 10px;
+}
+.wrapper4 {
+  font-size: 26px;
+  margin: 50px auto;
+  text-align: left;
+  width: 1000px;
+}
+.wrapper5 {
+  font-size: 26px;
+  margin: 50px auto;
+  text-align: left;
+  width: 860px;
+  padding-left: 60px;
+}
+.wrapper5 p {
+  font-weight: bold;
+}
+.mask2 {
+  float:left;
+  margin-left: 100px;
+  margin-right: 60px;
+  /* margin-bottom: 20px; */
+}
+.container5 {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 70px;
+  padding: 30px;
+  text-align: center;
+}
+.wrapper6 {
+    font-size: 26px;
+    margin: 0 auto;
+    text-align: left;
+    width: 860px;
+    padding-left: 60px;
+}
+.wrapper6 p {
+   font-weight: bold;
 }
 
