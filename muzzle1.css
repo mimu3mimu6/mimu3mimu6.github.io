@@ -328,6 +328,7 @@ main h2 {
 .wrapper2 p {
   font-weight: bold;
   line-height: 10px;
+  margin: 10px 0;
   padding: 6px solid gray;
 }
 .wrapper3 {
@@ -340,6 +341,4 @@ main h2 {
   font-weight: bold;
   line-height: 10px;
 }
-p {
-margin: 10px 0;
-}
+
