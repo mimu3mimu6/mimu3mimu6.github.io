@@ -329,7 +329,7 @@ main h2 {
   font-weight: bold;
   line-height: 10px;
   margin: 10px 0;
-  padding: 6px solid gray;
+  color: pink;
 }
 .wrapper3 {
   font-size: 26px;
