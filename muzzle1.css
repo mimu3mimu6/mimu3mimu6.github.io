@@ -328,6 +328,7 @@ main h2 {
 .wrapper2 p {
   font-weight: bold;
   line-height: 10px;
+  padding: 6px solid gray;
 }
 .wrapper3 {
   font-size: 26px;
