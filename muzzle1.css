@@ -323,6 +323,9 @@ main h2 {
   font-size: 20px;
   line-height: 10px;
 }
+.copy_text6 p {
+  line-height: 10px;
+}
 .wrapper3 {
   font-size: 26px;
   margin: 50px auto;
