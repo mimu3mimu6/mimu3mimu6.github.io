@@ -283,3 +283,49 @@ margin-top: 5px;
     margin: 10px;
   }
 
+
+.container4 {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+.wrapper2 {
+  margin: 150px auto;
+  text-align: center;
+  width: 740px;
+}
+.copy_text5 {
+
+  font-weight: bold;
+  text-align: left;
+  width: 1000px;
+  margin: 40px auto;
+  border-left: 6px solid gray;
+  padding-left: 10px;
+  font-size: 20px;
+  line-height: 1.2;
+}
+main h2 {
+  font-size: 30px;
+  text-align: left;
+}
+.copy_text6 {
+
+  font-weight: bold;
+  text-align: left;
+  width: 730px;
+  margin: 40px auto;
+  border-left: 6px solid brown;
+  padding-left: 10px;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.wrapper3 {
+  font-size: 26px;
+  margin: 50px auto;
+  text-align: left;
+  width: 740px;
+  line-height: 1.5;
+}
