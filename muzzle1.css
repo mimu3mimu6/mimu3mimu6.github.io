@@ -396,3 +396,27 @@ main h2 {
     font-weight: bold;
 }
 
+.gallery {
+  width: 800px;
+  margin: 80px auto 200px auto;
+  text-align: center;
+}
+#main-image {
+  width: 800px;
+  margin: 20px auto;
+}
+.thumbnail {
+  float: left;
+  padding-right: 40px;
+}
+.gallery ul li {
+  list-style: none;
+  text-align: center;
+}
+.wrapper8 {
+  margin: 20px auto;
+  text-align: left;
+  width: 860px;
+  padding-left: 140px;
+
+}
