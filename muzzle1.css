@@ -433,6 +433,10 @@ main h2 {
   width: 200px;
   padding-left: 10px;
 }
+#main-image2 {
+  width: 400px;
+  margin: 20px auto;
+}
 /* .wrapper10 {
 width: 800px;
 margin: 20px auto;
