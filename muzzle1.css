@@ -167,7 +167,7 @@ nav ul li a:active{
 .container_item {
   width: 1000px;
   text-align: center;
-  margin: 0 auto;
+  margin: 100px auto 0 auto;
 }
 .container_item h1 {
   color: red;
