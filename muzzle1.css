@@ -424,6 +424,10 @@ main h2 {
   margin: 80px auto 200px auto;
   text-align: center;
 }
+.gallery2 ul li {
+  list-style: none;
+  text-align: center;
+}
 .wrapper9 {
   margin: 20px auto;
   float: left;
