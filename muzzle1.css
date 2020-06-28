@@ -421,9 +421,10 @@ main h2 {
   padding-left: 60px;
 }
 .gallery2 {
-  width: 800px;
-  margin: 0 auto 200px auto;
+  width: 1000px;
+  margin: 0 auto;
   text-align: center;
+  float: left;
 }
 .gallery2 ul li {
   list-style: none;
