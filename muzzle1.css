@@ -403,7 +403,7 @@ main h2 {
 }
 #main-image {
   width: 600px;
-  margin: 20px auto;
+  margin: 0 auto;
 }
 .thumbnail {
   float: left;
