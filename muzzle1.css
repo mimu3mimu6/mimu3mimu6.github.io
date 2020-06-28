@@ -119,8 +119,8 @@ nav ul li a:active{
   margin-top: 10px;
 }
 .language-title {
-  margin-left: 30px;
-  color: pink;
+  padding-left: 100px;
+  color: blue;
 }
 
 /* .float_none {
