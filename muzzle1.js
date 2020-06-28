@@ -11,13 +11,10 @@ $(function() {
   
   
   
-    $('#show-text').click(function() {
+    $('#hide-text').click(function() {
       $('#text').show();
     });
 
-    $('#hide-text').click(function() {
-      $('#text').hide();
-    });
   
   
 });
