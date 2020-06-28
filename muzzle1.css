@@ -418,5 +418,15 @@ main h2 {
   text-align: left;
   width: 860px;
   padding-left: 40px;
-
+}
+.gallery2 {
+  width: 800px;
+  margin: 80px auto 200px auto;
+  text-align: center;
+}
+.wrapper9 {
+  margin: 20px auto;
+  float: left;
+  width: 400px;
+  padding-left: 10px;
 }
