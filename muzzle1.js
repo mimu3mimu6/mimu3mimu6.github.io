@@ -15,7 +15,11 @@ $(function() {
       $('#text').show();
     });
 
-
+    $('#hide-text').click(function() {
+      $('#text').hide();
+    });
+  
+  
 });
 
 
