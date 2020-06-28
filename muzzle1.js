@@ -11,8 +11,8 @@ $(function() {
   
   
   
-    $('#hide-text').click(function() {
-      $('#text').hide();
+    $('#show-text').click(function() {
+      $('#text').show();
     });
 
 
