@@ -390,7 +390,8 @@ main h2 {
     margin: 50px auto;
     text-align: left;
     width: 860px;
-    padding-left: 60px;
+    padding-left: 80px;
+    color: pink;
 }
 .wrapper7 p {
     font-weight: bold;
