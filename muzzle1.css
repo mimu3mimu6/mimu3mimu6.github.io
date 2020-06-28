@@ -118,7 +118,9 @@ nav ul li a:active{
   font-weight: bold;
   margin-top: 10px;
 }
-
+.language-title {
+  margin-left: 30px;
+}
 
 /* .float_none {
 	clear: both;
