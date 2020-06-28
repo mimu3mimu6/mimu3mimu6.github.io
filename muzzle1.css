@@ -402,7 +402,7 @@ main h2 {
   text-align: center;
 }
 #main-image {
-  width: 800px;
+  width: 600px;
   margin: 20px auto;
 }
 .thumbnail {
@@ -415,7 +415,8 @@ main h2 {
 }
 .wrapper8 {
   margin: 20px auto;
-  text-align: left;
+  float: left;
+/*   text-align: left; */
   width: 860px;
   padding-left: 40px;
 }
@@ -434,7 +435,7 @@ main h2 {
   padding-left: 10px;
 }
 #main-image2 {
-  width: 400px;
+  width: 300px;
   margin: 20px auto;
 }
 /* .wrapper10 {
