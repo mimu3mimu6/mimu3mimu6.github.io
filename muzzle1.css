@@ -431,13 +431,9 @@ main h2 {
   text-align: center;
 }
 .wrapper9 {
-/*   float: left;
-  width: 200px;
-  padding-left: 20px; */
   margin: 20px auto;
   float: left;
-/*   text-align: left; */
-  width: 860px;
+  width: 1000px;
   padding-left: 100px;
 }
 #main-image2 {
