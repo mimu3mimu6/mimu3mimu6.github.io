@@ -1,0 +1,27 @@
+* {
+  box-sizing:border-box;
+}
+
+
+/* タブレット向けレイアウト */
+
+/* ブレイクポイントが768px以下のときのメディアクエリを設定してください */
+@media (max-width: 768px) {
+  .container {
+    width: 50%;
+  }
+
+}
+/* スマホ向けレイアウト */
+
+/* ブレイクポイントが480px以下の時のメディアクエリを設定してください */
+@media (max-width: 480px) {
+  .container {
+    width: 100%;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+}
