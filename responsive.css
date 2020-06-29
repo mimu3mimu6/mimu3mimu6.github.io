@@ -24,7 +24,7 @@
   
   
   header {
-  border-top: 1px solid rgb( 0, 0, 0);
+  border-top: 2px solid rgb( 0, 0, 0);
   border-bottom: 2px solid rgb( 0, 0, 0);
   background-color: rgb(193, 84, 25);
   height: 60px;
@@ -36,20 +36,22 @@
 header img {
   width: 180px;
   float: left;
-  padding: 15px 20px 0 20px;
+  padding: 20px 20px 0 20px;
 }
 
 .header-list li {
   list-style: none;
   float: right;
   width: 100px;
-  padding: 0 20px;
+  padding: 0 5px;
+  font-size: 8px;
 }
 .header-list li a {
   text-decoration: none;
 }
 header li a {
-  color: #fff;
+/*   color: #fff; */
+  color: blue;
 }
 .header-list li a:hover,
 .header-list li a:active,
@@ -78,7 +80,7 @@ main {
   text-align: center;
 }
 main h1 {
-  font-size: 30px;
+  font-size: 12px;
   text-align: left;
   margin: 20px;
 }
@@ -125,7 +127,7 @@ nav ul li a:active{
 .text {
   display: inline-block;
   text-align: left;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 #language-wrapper{
   margin-left: 30px;
@@ -233,7 +235,7 @@ footer {
 
 footer ul {
   margin-bottom: 20px;
-  text-align: right;
+  text-align: center;
 }
 footer ul li {
   display: inline;
