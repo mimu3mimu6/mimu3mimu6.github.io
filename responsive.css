@@ -53,7 +53,7 @@ header img {
 }
 header li a {
 /*   color: #fff; */
-  color: red;
+  color: blue;
 }
 .header-list li a:hover,
 .header-list li a:active,
@@ -78,7 +78,7 @@ main {
 }
 
 .main_image {
-  width: 100%;
+  width: 480px;
   text-align: center;
 }
 main h1 {
