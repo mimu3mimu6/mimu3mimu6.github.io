@@ -81,11 +81,11 @@ main {
 main h1 {
   font-size: 12px;
   text-align: left;
-  margin: 20px;
+  margin: 10px auto 20px auto;
 }
 
 nav ul {
-  width: 50%;
+  width: 10%;
   text-align: center;
   /*   下のautoを30にする*/
   margin: 0 auto 30px auto;
@@ -104,6 +104,7 @@ nav ul li:last-child {
   border-right: 2px solid black;
 }
 nav ul li a {
+  font-size: 10px;
   display: block;
   padding: 10px 0;
   border-left: 2px solid black;
