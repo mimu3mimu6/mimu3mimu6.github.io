@@ -45,7 +45,7 @@ header img {
 .header-list li {
   list-style: none;
   float: right;
-  width: 200px;
+  width: 50px;
   padding: 0 5px;
 }
 .header-list li a {
@@ -53,7 +53,7 @@ header img {
 }
 header li a {
 /*   color: #fff; */
-  color: blue;
+  color: red;
 }
 .header-list li a:hover,
 .header-list li a:active,
