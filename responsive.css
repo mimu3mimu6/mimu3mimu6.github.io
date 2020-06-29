@@ -24,7 +24,7 @@
   
   
   header {
-  width: 480px;
+  width: 375px;
   border: 2px solid rgb( 0, 0, 0);
   background-color: rgb(193, 84, 25);
   height: 60px;
@@ -51,7 +51,7 @@ header img {
 }
 header li a {
 /*   color: #fff; */
-  color: red;
+  color: blue;
 }
 .header-list li a:hover,
 .header-list li a:active,
