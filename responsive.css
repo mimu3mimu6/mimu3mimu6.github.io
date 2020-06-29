@@ -51,7 +51,7 @@ header img {
 }
 header li a {
 /*   color: #fff; */
-  color: red;
+  color: green;
 }
 .header-list li a:hover,
 .header-list li a:active,
@@ -86,7 +86,7 @@ main h1 {
 }
 
 nav ul {
-  width: 1000px;
+  width: 50%;
   text-align: center;
   /*   下のautoを30にする*/
   margin: 0 auto 30px auto;
@@ -96,7 +96,7 @@ nav ul {
 
 nav ul li {
   float: left;
-  width: 166px;
+  width: 100px;
   /* margin-right: 2px; */
   text-align: center;
 }
@@ -106,7 +106,7 @@ nav ul li:last-child {
 }
 nav ul li a {
   display: block;
-  padding: 20px 0;
+  padding: 10px 0;
   border-left: 2px solid black;
   border-top: 2px solid black;
   border-bottom: 2px solid black;
