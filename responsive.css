@@ -6,7 +6,8 @@
 
 /* ブレイクポイントが960px以下の時のメディアクエリを設定してください */
 @media (max-width: 960px) {
-header {
+
+  header {
   width: 100%;
   float: left;
   border: 2px solid rgb( 0, 0, 0);
@@ -32,10 +33,9 @@ header img {
 
 header li a {
 /*   color: #fff; */
-  color: brown;
+  color: pink;
 }
   
-
 main {
   width: 100%;
   background-color: rgb(242,210,172);
@@ -55,9 +55,162 @@ main h1 {
   margin: 0　auto;
   text-align: center;
   width: 100%;
-  }  
+  }
   
   
+  
+  
+  
+  
+  nav ul {
+  width: 100%;
+  text-align: center;
+  /*   下のautoを30にする*/
+  margin: 0 auto 30px auto;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+nav ul li {
+  float: clear;
+  width: 100%;
+  /* margin-right: 2px; */
+  text-align: center;
+}
+
+nav ul li:last-child {
+  border-right: 0px solid black;
+  border-bottom: 1px solid black;
+}
+nav ul li a {
+  display: block;
+  padding: 2px 0;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  text-decoration: none;
+/*   color: #fff; */
+  color: white;
+  background-color: rgb(193, 84, 25);
+}
+
+nav ul li a:hover,
+nav ul li a:active{
+  background-color: #000;
+}
+  
+  
+.clearfix:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+  
+  
+  
+footer {
+  padding: 10px;
+  text-align: center;
+  color: rgb( 0, 0, 0);
+  background-color: rgb(193, 84, 25);
+  border-top: 2px solid rgb( 0, 0, 0);
+  border-bottom: 2px solid rgb( 0, 0, 0);
+  border-left: 2px solid rgb( 0, 0, 0);
+  border-right: 2px solid rgb( 0, 0, 0);
+}
+
+footer ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  padding-left: 0px;
+}
+footer ul li {
+  display: inline;
+  padding: 0 10px;
+}
+
+footer ul li a {
+  color: #fff;
+}
+footer ul li a:link {
+  text-decoration: none;
+}
+footer ul li a:hover,
+footer ul li a:active {
+text-decoration: underline;
+}
+  
+  
+.container3 {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 15px;
+}
+.container3 h2 {
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+  
+  .prof {
+    display: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 1.0;
+  }
+  
+  .container {
+  width: 100%;
+  margin: 0px 0px;
+  padding-left: 10px;
+  text-align: center;
+  margin-right: 0px;
+  }
+  
+  .copy_text2 {
+  width: 350px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.0;
+}
+
+  
+  
+  
+  .wrapper4 {
+  font-size: 10px;
+  margin: 20px auto;
+  text-align: left;
+  width: 100%;
+}
+  
+  
+  .copy_text3 {
+  font-weight: bold;
+  text-align: left;
+  width: 100%;
+  margin: 0px auto;
+  font-size: 10px;
+  line-height: 1.0;
+}
+.copy_text4 {
+
+  font-weight: bold;
+  text-align: left;
+  width: 100%;
+  margin: 20px auto;
+  font-size: 10px;
+  line-height: 1.0;
+}
   
   
   
