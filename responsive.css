@@ -159,7 +159,7 @@ text-decoration: underline;
   
   .prof_image {
   width: 100%;
-  float: left;
+  float: clear;
   margin-left: 0px;
 }
   
@@ -177,9 +177,9 @@ text-decoration: underline;
   margin-left: 0px;
   text-align: left;
   font-weight: bold;
-  font-size: 15px;
-/*   line-height: 1.5; */
-    color: red;
+  font-size: 10px;
+  line-height: 1.0;
+    color: blue;
 }
   
   
