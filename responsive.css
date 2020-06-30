@@ -173,15 +173,16 @@ text-decoration: underline;
   }
   
   .copy_text2 {
-  width: 220px;
+  width: 250px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
+  margin-right: 0px;
   text-align: left;
   font-weight: bold;
   font-size: 12px;
   line-height: 1.0;
-    color: brown;
+    color: blue;
 }
   
   
