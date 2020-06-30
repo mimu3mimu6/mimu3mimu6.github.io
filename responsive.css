@@ -158,7 +158,7 @@ text-decoration: underline;
 }
   
   .prof_image {
-  width: 100%;
+  width: 50%;
   float: clear;
   margin-left: 0px;
 }
@@ -172,7 +172,7 @@ text-decoration: underline;
   
   .copy_text2 {
   width: 100%;
-  margin-top: 60px;
+  margin-top: 0px;
   margin-bottom: 30px;
   margin-left: 0px;
   text-align: left;
