@@ -171,9 +171,11 @@ text-decoration: underline;
   padding-left: 10px;
   text-align: center;
   margin-right: 0px;
+  color: blue;
   }
   
   .copy_text2 {
+  display: none;
   width: 350px;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -183,7 +185,6 @@ text-decoration: underline;
   font-weight: bold;
   font-size: 12px;
   line-height: 1.0;
-    color: blue;
 }
 /*   .copy_text2 p {
    text-align: left;
