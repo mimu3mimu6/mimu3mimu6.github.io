@@ -38,7 +38,8 @@ header img {
 }
 header li a {
 /*   color: #fff; */
-  color: red;
+  color: blue;
+  float: right;
 }
 .header-list li a:hover,
 .header-list li a:active,
