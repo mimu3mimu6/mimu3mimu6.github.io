@@ -6,7 +6,7 @@
 /* タブレット向けレイアウト */
 
 /* ブレイクポイントが768px以下のときのメディアクエリを設定してください */
-@media (max-width: 768px) {
+@media (max-width: 559px) {
   .container {
     width: 30%;
   }
