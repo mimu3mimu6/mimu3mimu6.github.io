@@ -174,7 +174,7 @@ text-decoration: underline;
   }
   
   .copy_text2 {
-  width: 250px;
+  width: 350px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
@@ -183,7 +183,7 @@ text-decoration: underline;
   font-weight: bold;
   font-size: 12px;
   line-height: 1.0;
-    color: white;
+    color: blue;
 }
 /*   .copy_text2 p {
    text-align: left;
