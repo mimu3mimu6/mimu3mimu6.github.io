@@ -75,7 +75,7 @@ main h1 {
 
 nav ul li {
   float: clear;
-  width: 90%;
+  width: 100%;
   /* margin-right: 2px; */
   text-align: center;
 }
