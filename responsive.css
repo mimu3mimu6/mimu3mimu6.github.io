@@ -163,6 +163,7 @@ display: none;
 }
   .prof {
     width: 100%;
+    display: block;
   }
   
   .container {
