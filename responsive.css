@@ -27,26 +27,16 @@ header img {
 }
 
 .header-list li {
-  list-style: none;
-  float: right;
   width: 75%;
   padding: 0 2px;
   font-size: 15px;
 }
-.header-list li a {
-  text-decoration: none;
-}
+
 header li a {
 /*   color: #fff; */
-  color: blue;
-  float: right;
+  color: red;
 }
-.header-list li a:hover,
-.header-list li a:active,
-.header-list li.current a {
-  text-decoration: underline;
-  text-decoration-color: white;
-}
+
   
 }
 /* スマホ向けレイアウト */
