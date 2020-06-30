@@ -39,6 +39,31 @@ header li a {
 }
 
   
+  
+main {
+  width: 100%;
+  background-color: rgb(242,210,172);
+  margin: 0 auto;
+  /* height: 1000px; */
+  /* width: 844px; */
+  /* text-align: center; */
+}
+
+main h1 {
+  font-size: 15px;
+  text-align: left;
+  margin: 20px;
+  color: pink;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
 }
 /* スマホ向けレイアウト */
 
