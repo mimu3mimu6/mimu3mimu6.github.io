@@ -51,7 +51,6 @@ main h1 {
   font-size: 15px;
   text-align: left;
   margin: 10px;
-  color: blue;
 }
   
 .wrapper {
@@ -76,7 +75,7 @@ main h1 {
 
 nav ul li {
   float: clear;
-  width: 90px;
+  width: 100%;
   /* margin-right: 2px; */
   text-align: center;
 }
@@ -89,9 +88,10 @@ nav ul li a {
   padding: 10px 0;
   border-left: 2px solid black;
   border-top: 2px solid black;
-  border-bottom: 2px solid black;
+  border-right: 2px solid black;
   text-decoration: none;
-  color: #fff;
+/*   color: #fff; */
+  color: pink;
   background-color: rgb(193, 84, 25);
 }
 
