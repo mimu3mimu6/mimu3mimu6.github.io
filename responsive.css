@@ -110,7 +110,35 @@ nav ul li a:active{
   
   
   
-  
+footer {
+  padding: 10px;
+  text-align: center;
+  color: rgb( 0, 0, 0);
+  background-color: rgb(193, 84, 25);
+  border-top: 2px solid rgb( 0, 0, 0);
+  border-bottom: 2px solid rgb( 0, 0, 0);
+}
+
+footer ul {
+  margin-bottom: 10px;
+  text-align: center;
+  padding-left: 0px;
+}
+footer ul li {
+  display: inline;
+  padding: 0 10px;
+}
+
+footer ul li a {
+  color: #fff;
+}
+footer ul li a:link {
+  text-decoration: none;
+}
+footer ul li a:hover,
+footer ul li a:active {
+text-decoration: underline;
+}
   
   
   
