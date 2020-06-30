@@ -161,7 +161,7 @@ text-decoration: underline;
   .prof_image {
 display: none;
 }
-  .prof img {
+  .prof {
     width: 50px;
     display: block;
   }
@@ -169,7 +169,7 @@ display: none;
   .container {
   width: 100%;
   margin: 0px auto;
-  padding: 10px;
+  padding-left: 80px;
 /*   text-align: center; */
   }
   
