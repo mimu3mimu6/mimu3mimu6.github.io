@@ -160,6 +160,7 @@ text-decoration: underline;
   .prof_image {
   width: 50%;
   float: left;
+  text-align: center;
   margin-left: 0px;
 }
   
