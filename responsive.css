@@ -30,7 +30,8 @@ header img {
 
 .header-list li {
   width: 20%;
-  padding: 0 2px;
+  padding-left: 1px;
+  padding-right: 1px;
   font-size: 5px;
 }
   .header-list li a {
@@ -39,7 +40,7 @@ header img {
 
 header li a {
 /*   color: #fff; */
-  color: blue;
+  color: red;
 }
 
   
