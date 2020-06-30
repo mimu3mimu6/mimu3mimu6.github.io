@@ -162,8 +162,8 @@ text-decoration: underline;
     display: none;
 }
   .prof {
-    margin: 0 auto;
     display: block;
+    text-align: center;
   }
   
   .container {
