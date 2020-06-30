@@ -167,7 +167,7 @@ text-decoration: underline;
   
   .container {
   max-width: 100%;
-  margin: 0 auto;
+  margin: 0px;
   padding: 10px;
 /*   text-align: center; */
   }
