@@ -75,23 +75,24 @@ main h1 {
 
 nav ul li {
   float: clear;
-  width: 100%;
+  width: 90%;
   /* margin-right: 2px; */
   text-align: center;
 }
 
 nav ul li:last-child {
+  border-right: 0px solid black;
   border-bottom: 2px solid black;
 }
 nav ul li a {
   display: block;
-  padding: 10px 0;
+  padding: 2px 0;
   border-left: 2px solid black;
   border-top: 2px solid black;
   border-right: 2px solid black;
   text-decoration: none;
 /*   color: #fff; */
-  color: pink;
+  color: white;
   background-color: rgb(193, 84, 25);
 }
 
