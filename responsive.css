@@ -159,7 +159,7 @@ text-decoration: underline;
   
   .prof_image {
   width: 50%;
-  float: clear;
+  float: left;
   margin-left: 0px;
 }
   
@@ -167,7 +167,7 @@ text-decoration: underline;
   max-width: 100%;
   margin: 0 auto;
   padding: 10px;
-  text-align: center;
+/*   text-align: center; */
   }
   
   .copy_text2 {
@@ -179,7 +179,7 @@ text-decoration: underline;
   font-weight: bold;
   font-size: 10px;
   line-height: 1.0;
-    color: red;
+    color: blue;
 }
   
   
