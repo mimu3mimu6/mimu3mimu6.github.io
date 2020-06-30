@@ -163,21 +163,22 @@ text-decoration: underline;
   .prof {
     display: block;
     text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 1.0;
+    color: red;
   }
   
   .container {
+  display: none;
   width: 100%;
   margin: 0px 0px;
   padding-left: 10px;
   text-align: center;
   margin-right: 0px;
-  font-weight: bold;
-  font-size: 12px;
-  line-height: 1.0;
-  color: red;
   }
   
-/*   .copy_text2 {
+  .copy_text2 {
   display: none;
   width: 350px;
   margin-top: 0px;
@@ -188,10 +189,8 @@ text-decoration: underline;
   font-weight: bold;
   font-size: 12px;
   line-height: 1.0;
-} */
-/*   .copy_text2 p {
-   text-align: left;
-  } */
+}
+
   
   
   
