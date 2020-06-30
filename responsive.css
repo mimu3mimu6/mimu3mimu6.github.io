@@ -157,6 +157,44 @@ text-decoration: underline;
   text-align: center;
 }
   
+  .prof_image {
+  width: 100%;
+  float: left;
+  margin-left: 0px;
+}
+  
+  .container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  }
+  
+  .copy_text2 {
+  width: 100%;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  margin-left: 0px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 15px;
+/*   line-height: 1.5; */
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 }
 /* スマホ向けレイアウト */
