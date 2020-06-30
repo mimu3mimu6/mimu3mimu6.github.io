@@ -66,7 +66,7 @@ main h1 {
   
   
   nav ul {
-  width: 1000px;
+  width: 100%;
   text-align: center;
   /*   下のautoを30にする*/
   margin: 0 auto 30px auto;
@@ -75,7 +75,7 @@ main h1 {
 }
 
 nav ul li {
-/*   float: left; */
+  float: clear;
   width: 90px;
   /* margin-right: 2px; */
   text-align: center;
