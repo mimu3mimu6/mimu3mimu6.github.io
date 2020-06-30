@@ -159,10 +159,10 @@ text-decoration: underline;
 }
   
   .prof_image {
-display: none;
+    display: none;
 }
   .prof {
-    width: 50px;
+    width: 10%;
     display: block;
   }
   
@@ -182,7 +182,7 @@ display: none;
   font-weight: bold;
   font-size: 10px;
   line-height: 1.0;
-    color: red;
+    color: blue;
 }
   
   
