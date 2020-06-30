@@ -200,7 +200,7 @@ display: none;
   font-weight: bold;
   text-align: left;
   width: 100%;
-  margin: 10px auto;
+  margin: 0px auto;
   font-size: 10px;
   line-height: 1.0;
 }
@@ -209,9 +209,9 @@ display: none;
   font-weight: bold;
   text-align: left;
   width: 100%;
-  margin: 10px auto;
+  margin: 20px auto;
   font-size: 10px;
-  line-height: 0.5;
+  line-height: 1.0;
 }
   
   
