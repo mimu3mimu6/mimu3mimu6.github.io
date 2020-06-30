@@ -161,8 +161,8 @@ text-decoration: underline;
   .prof_image {
 display: none;
 }
-  .prof {
-    width: 250px;
+  .prof img {
+    width: 50px;
     display: block;
   }
   
