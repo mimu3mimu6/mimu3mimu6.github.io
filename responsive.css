@@ -25,8 +25,8 @@ header img {
 }
 
 .header-list li {
-  width: 30px;
-  padding: 0px;
+  width: 80px;
+  padding: 0px 10px;
   font-size: 15px;
 }
 
@@ -95,8 +95,8 @@ header img {
 }
 
 .header-list li {
-  width: 10px;
-  padding: 0px;
+  width: 80px;
+  padding: 0px 5px;
   font-size: 15px;
 }
 
