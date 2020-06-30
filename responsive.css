@@ -1,0 +1,57 @@
+* {
+  box-sizing:border-box;
+}
+
+
+/* タブレット向けレイアウト */
+
+/* ブレイクポイントが768px以下のときのメディアクエリを設定してください */
+@media (max-width: 768px) {
+  .container {
+    width: 50%;
+  }
+
+}
+/* スマホ向けレイアウト */
+
+/* ブレイクポイントが480px以下の時のメディアクエリを設定してください */
+@media (max-width: 320px) {
+
+header {
+  width: 100%;
+  border: 2px solid rgb( 0, 0, 0);
+  background-color: rgb(193, 84, 25);
+  height: 60px;
+}
+
+.header-list {
+  text-align: left;
+}
+header img {
+  width: 180px;
+  float: left;
+  padding: 25px 0 0 20px;
+}
+
+.header-list li {
+  list-style: none;
+  float: right;
+  width: 50%;
+  padding: 0 2px;
+  font-size: 15px;
+}
+.header-list li a {
+  text-decoration: none;
+}
+header li a {
+/*   color: #fff; */
+  color: red;
+}
+.header-list li a:hover,
+.header-list li a:active,
+.header-list li.current a {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+  
+}
