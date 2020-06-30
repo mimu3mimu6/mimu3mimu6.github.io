@@ -170,11 +170,11 @@ text-decoration: underline;
   width: 100%;
   margin: 0px auto;
   padding-left: 20px;
-/*   text-align: center; */
+  text-align: center;
   }
   
   .copy_text2 {
-  width: 150px;
+  width: 100%;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
