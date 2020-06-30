@@ -30,17 +30,17 @@ header img {
 
 .header-list li {
   width: 20%;
-  padding-left: 1px;
-  padding-right: 1px;
+  padding: 0px;
   font-size: 5px;
 }
   .header-list li a {
-/*   float:left; */
+  padding-left: 1px;
+  padding-right: 1px;
 }
 
 header li a {
 /*   color: #fff; */
-  color: red;
+  color: blue;
 }
 
   
