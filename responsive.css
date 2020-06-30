@@ -29,7 +29,7 @@ header img {
 }
 
 .header-list li {
-  width: 10%;
+  width: 20%;
   padding: 0 2px;
   font-size: 5px;
 }
@@ -39,7 +39,7 @@ header img {
 
 header li a {
 /*   color: #fff; */
-  color: red;
+  color: blue;
 }
 
   
