@@ -113,7 +113,8 @@ nav ul li a:active{
 footer {
   padding: 10px;
   text-align: center;
-  color: rgb( 0, 0, 0);
+/*   color: rgb( 0, 0, 0); */
+  color: blue;
   background-color: rgb(193, 84, 25);
   border-top: 2px solid rgb( 0, 0, 0);
   border-bottom: 2px solid rgb( 0, 0, 0);
@@ -158,8 +159,8 @@ text-decoration: underline;
 }
   
   .prof_image {
-  width: 50%;
-  float: left;
+  width: 100%;
+  float: none;
   text-align: center;
   margin-left: 0px;
 }
