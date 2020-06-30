@@ -2,14 +2,10 @@
   box-sizing:border-box;
 }
 
-
 /* タブレット向けレイアウト */
 
-/* ブレイクポイントが768px以下のときのメディアクエリを設定してください */
-@media (max-width: 559px) {
-  .container {
-    width: 30%;
-  }
+/* ブレイクポイントが960px以下の時のメディアクエリを設定してください */
+@media (max-width: 960px) {
 header {
   width: 100%;
   float: left;
@@ -36,6 +32,45 @@ header img {
 
 header li a {
   color: #fff;
+}
+  
+
+}
+
+/* スマホ向けレイアウト */
+
+/* ブレイクポイントが768px以下のときのメディアクエリを設定してください */
+@media (max-width: 559px) {
+/*   .container {
+    width: 30%;
+  } */
+header {
+  width: 100%;
+  float: left;
+  border: 2px solid rgb( 0, 0, 0);
+  background-color: rgb(193, 84, 25);
+  height: 60px;
+}
+
+.header-list {
+  width: 100%;
+  text-align: left;
+}
+header img {
+  width: 150px;
+  float: left;
+  padding: 18px 0 0 20px;
+}
+
+.header-list li {
+  width: 20%;
+  padding: 0px;
+  font-size: 15px;
+}
+
+header li a {
+/*   color: #fff; */
+  color: blue;
 }
   
 main {
@@ -226,11 +261,4 @@ text-decoration: underline;
   
   
   
-}
-/* スマホ向けレイアウト */
-
-/* ブレイクポイントが480px以下の時のメディアクエリを設定してください */
-@media (max-width: 320px) {
-
-
 }
