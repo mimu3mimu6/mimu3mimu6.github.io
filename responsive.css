@@ -31,16 +31,14 @@ header img {
 .header-list li {
   width: 20%;
   padding: 0px;
-  font-size: 5px;
-}
-  .header-list li a {
-  padding-left: 1px;
-  padding-right: 1px;
+  font-size: 15px;
 }
 
 header li a {
 /*   color: #fff; */
-  color: blue;
+  color: red;
+  padding-left: 1px;
+  padding-right: 1px;
 }
 
   
