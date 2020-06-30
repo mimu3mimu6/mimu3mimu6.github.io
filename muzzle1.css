@@ -5,6 +5,7 @@ body {
 }
 
 header {
+  width: 100%;
   border-top: 2px solid rgb( 0, 0, 0);
   border-bottom: 2px solid rgb( 0, 0, 0);
   background-color: rgb(193, 84, 25);
@@ -30,7 +31,8 @@ header img {
   text-decoration: none;
 }
 header li a {
-  color: #fff;
+/*   color: #fff; */
+	color: red;
 }
 .header-list li a:hover,
 .header-list li a:active,
@@ -49,9 +51,6 @@ header li a {
 main {
   background-color: rgb(242,210,172);
   margin: 0 auto;
-  /* height: 1000px; */
-  /* width: 844px; */
-  /* text-align: center; */
 }
 
 .main_image {
