@@ -23,13 +23,13 @@ header {
 header img {
   width: 180px;
   float: left;
-  padding: 25px 0 0 20px;
+  padding: 20px 0 0 20px;
 }
 
 .header-list li {
   list-style: none;
   float: right;
-  width: 50%;
+  width: 100%;
   padding: 0 2px;
   font-size: 15px;
 }
@@ -38,7 +38,7 @@ header img {
 }
 header li a {
 /*   color: #fff; */
-  color: red;
+  color: blue;
 }
 .header-list li a:hover,
 .header-list li a:active,
