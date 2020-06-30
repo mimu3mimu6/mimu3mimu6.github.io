@@ -178,13 +178,15 @@ text-decoration: underline;
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
-  text-align: left;
+  text-align: center;
   font-weight: bold;
   font-size: 12px;
   line-height: 1.0;
-    color: blue;
+    color: red;
 }
-  
+  .copy_text2 p {
+   text-align: left;
+  }
   
   
   
