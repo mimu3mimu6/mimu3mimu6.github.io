@@ -114,7 +114,7 @@ footer {
   padding: 10px;
   text-align: center;
 /*   color: rgb( 0, 0, 0); */
-  color: blue;
+  color: red;
   background-color: rgb(193, 84, 25);
   border-top: 2px solid rgb( 0, 0, 0);
   border-bottom: 2px solid rgb( 0, 0, 0);
@@ -159,11 +159,11 @@ text-decoration: underline;
 }
   
   .prof_image {
-  width: 100%;
-  float: none;
-  text-align: center;
-  margin-left: 0px;
+display: none;
 }
+  .prof {
+    width: 100%;
+  }
   
   .container {
   max-width: 100%;
