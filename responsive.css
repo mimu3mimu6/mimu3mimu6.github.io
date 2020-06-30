@@ -167,7 +167,7 @@ text-decoration: underline;
   
   .container {
   width: 100%;
-  margin: 0px 60px;
+  margin: 0px 0px;
   padding-left: 10px;
   text-align: center;
   }
@@ -181,7 +181,7 @@ text-decoration: underline;
   font-weight: bold;
   font-size: 12px;
   line-height: 1.0;
-    color: red;
+    color: brown;
 }
   
   
