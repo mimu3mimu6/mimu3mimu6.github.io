@@ -162,7 +162,7 @@ text-decoration: underline;
 display: none;
 }
   .prof {
-    width: 100%;
+    width: 50%;
     display: block;
   }
   
@@ -182,7 +182,7 @@ display: none;
   font-weight: bold;
   font-size: 10px;
   line-height: 1.0;
-    color: red;
+    color: blue;
 }
   
   
