@@ -34,12 +34,12 @@ header img {
   font-size: 5px;
 }
   .header-list li a {
-  float:left;
+/*   float:left; */
 }
 
 header li a {
 /*   color: #fff; */
-  color: blue;
+  color: red;
 }
 
   
