@@ -89,7 +89,7 @@ nav ul li a {
   border-bottom: 2px solid black;
   text-decoration: none;
 /*   color: #fff; */
-  color: blue;
+  color: red;
   background-color: rgb(193, 84, 25);
   font-size: 12px;
 }
@@ -196,7 +196,7 @@ text-decoration: underline;
   margin: 20px auto;
   text-align: left;
   width: 560px;
-  padding-left: 30px;
+  padding-left: 10px;
 }
   
   
