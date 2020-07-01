@@ -176,6 +176,7 @@ text-decoration: underline;
   }
   
   .copy_text2 {
+  display: none;
   width: 350px;
   margin-top: 0px;
   margin-bottom: 0px;
