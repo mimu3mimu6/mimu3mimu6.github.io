@@ -127,6 +127,7 @@ footer ul {
 footer ul li {
   display: inline;
   padding: 0 10px;
+  font-size: 14px;
 }
 
 footer ul li a {
@@ -271,8 +272,8 @@ footer ul li {
   font-weight: bold;
   width: 480px;
   line-height: 1.0;
-  font-size: 10px;
-  color: blue;
+  font-size: 8px;
+  color: red;
 }
   
   
