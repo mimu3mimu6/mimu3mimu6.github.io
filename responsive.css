@@ -266,10 +266,10 @@ footer ul li {
 }
 .copy_text {
   text-align: left;
-  padding-top: 30px;
+  padding-top: 0px;
   font-weight: bold;
-  width: 300px;
-  line-height: 1.5;
+  width: 320px;
+  line-height: 1.0;
   font-size: 15px;
 }
   
