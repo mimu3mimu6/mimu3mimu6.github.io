@@ -263,13 +263,13 @@ footer ul li {
 .mask3 {
   display: block;
   float: left;
+  padding-right: 20px;
 }
 .copy_text {
   text-align: left;
   padding-top: 0px;
   font-weight: bold;
   width: 480px;
-  padding-left: 20px;
   line-height: 1.0;
   font-size: 10px;
   color: blue;
