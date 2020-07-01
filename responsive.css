@@ -219,7 +219,11 @@ text-decoration: underline;
 }
   
   
-  
+  .text {
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 10px;
+}
   
   
   
