@@ -169,7 +169,7 @@ nav ul li a:active{
   margin: 0 auto;
 }
 .container_item h1 {
-  color: red;
+  color: blue;
   font-weight: bold;
   font-size: 30px;
 }
@@ -421,7 +421,10 @@ main h2 {
   width: 600px;
 /*   padding-left: 100px; */
 }
-.wrapper8 dd ul {
+.wrapper8 ul {
+  text-align: center;
+}
+.wrapper8 ul li {
   text-align: center;
 }
 
