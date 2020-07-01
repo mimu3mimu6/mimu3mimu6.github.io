@@ -254,19 +254,23 @@ footer ul li {
   text-align: center;
 }
 .mask2 {
-  width: 300px;
+  display: none;
   float: left;
   margin-left: 65px;
   margin-right: 65px;
   /* margin-bottom: 20px; */
 }
-
+.mask3 {
+  display:block;
+  float: left;
+}
 .copy_text {
   text-align: left;
   padding-top: 30px;
   font-weight: bold;
   width: 300px;
   line-height: 1.5;
+  font-size: 15px;
 }
   
   
