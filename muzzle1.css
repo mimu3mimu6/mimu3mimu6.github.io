@@ -30,8 +30,7 @@ header img {
   text-decoration: none;
 }
 header li a {
-/*   color: #fff; */
-	color: red;
+  color: #fff;
 }
 .header-list li a:hover,
 .header-list li a:active,
