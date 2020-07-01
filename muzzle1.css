@@ -368,6 +368,11 @@ main h2 {
   margin-right: 65px;
   /* margin-bottom: 20px; */
 }
+
+.mask3 {
+  display: none;
+  float: left;
+}
 .container5 {
   max-width: 1000px;
   margin: 0 auto;
