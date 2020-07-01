@@ -421,6 +421,10 @@ main h2 {
   width: 600px;
 /*   padding-left: 100px; */
 }
+.wrapper8 ul {
+  text-align: center;
+}
+
 .gallery2 {
   width: 1000px;
   margin: 0 auto;
