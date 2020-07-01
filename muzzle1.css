@@ -88,6 +88,7 @@ nav ul li a {
   border-bottom: 2px solid black;
   text-decoration: none;
   color: #fff;
+  font-weight: bold;
   background-color: rgb(193, 84, 25);
 }
 
