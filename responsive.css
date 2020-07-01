@@ -237,7 +237,12 @@ text-decoration: underline;
   padding-left: 20px;
 }
   
-  
+footer ul li {
+  display: inline;
+  width: 100px;
+  padding: 0 20px;
+  font-size: 15px;
+}
   
   
 }
