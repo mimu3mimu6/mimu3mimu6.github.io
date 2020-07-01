@@ -423,9 +423,7 @@ main h2 {
 }
 .wrapper8 ul {
   text-align: right;
-}
-.wrapper8 ul li {
-  text-align: center;
+  padding-right: 60px;
 }
 
 .gallery2 {
