@@ -261,6 +261,7 @@ footer ul li {
   /* margin-bottom: 20px; */
 }
 .mask3 {
+  display: block;
   float: left;
 }
 .copy_text {
