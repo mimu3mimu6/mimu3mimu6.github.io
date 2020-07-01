@@ -268,10 +268,11 @@ footer ul li {
   text-align: left;
   padding-top: 0px;
   font-weight: bold;
-  width: 320px;
+  width: 480px;
+  padding-left: 20px;
   line-height: 1.0;
   font-size: 14px;
-  color: blue;
+  color: red;
 }
   
   
