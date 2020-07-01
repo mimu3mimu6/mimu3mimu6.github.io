@@ -28,6 +28,7 @@ header img {
 }
 .header-list li a {
   text-decoration: none;
+  text-align: center;
 }
 header li a {
   color: #fff;
