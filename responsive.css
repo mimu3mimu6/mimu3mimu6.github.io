@@ -225,7 +225,17 @@ text-decoration: underline;
 }
   
   
-  
+  .wrapper5 {
+  font-size: 14px;
+  margin: 50px auto;
+  text-align: left;
+  width: 500px;
+}
+.wrapper5 p {
+  font-weight: bold;
+  line-height: 10px;
+  padding-left: 30px;
+}
   
   
   
