@@ -417,9 +417,9 @@ main h2 {
 .wrapper8 {
   margin: 20px auto;
   float: left;
-/*   text-align: left; */
-  width: 860px;
-  padding-left: 100px;
+  text-align: center;
+  width: 400px;
+/*   padding-left: 100px; */
 }
 .gallery2 {
   width: 1000px;
