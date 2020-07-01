@@ -245,6 +245,34 @@ footer ul li {
 }
   
   
+
+.container5 {
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 70px;
+  padding: 30px;
+  text-align: center;
+}
+.mask2 {
+  width: 300px;
+  float: left;
+  margin-left: 65px;
+  margin-right: 65px;
+  /* margin-bottom: 20px; */
+}
+
+.copy_text {
+  text-align: left;
+  padding-top: 30px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 1.5;
+}
+  
+  
+  
+  
+  
 }
 
 /* スマホ向けレイアウト */
