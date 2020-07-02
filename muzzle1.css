@@ -227,7 +227,8 @@ footer ul li {
 }
 
 footer ul li a {
-  color: #fff;
+/*   color: #fff; */
+  color: blue;
 }
 footer ul li a:link {
   text-decoration: none;
