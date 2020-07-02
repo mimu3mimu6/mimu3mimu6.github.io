@@ -238,15 +238,13 @@ text-decoration: underline;
   padding-left: 20px;
 }
   
-footer ul li {
+footer ul li a {
   display: inline;
   width: 100px;
   padding: 0 20px;
-  font-size: 15px;
+  font-size: 10px;
 }
   
-  
-
 .container5 {
   width: 500px;
   margin: 0 auto;
