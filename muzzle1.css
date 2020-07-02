@@ -447,12 +447,22 @@ main h2 {
   list-style: none;
   text-align: center;
 }
+
+.gallery3 {
+  display: none;
+/*   width: 800px;
+  margin: 20px auto 200px auto;
+  text-align: center; */
+}
 .wrapper9 {
-  margin: 20px auto 120px auto;
+  display: none;
+/*   margin: 20px auto 120px auto;
   float: left;
   width: 1000px;
-  padding-left: 90px;
+  padding-left: 90px; */
 }
+
+
 #main-image2 {
   width: 300px;
   margin: 20px auto;
