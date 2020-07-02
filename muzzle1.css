@@ -432,7 +432,8 @@ main h2 {
 /*   padding-left: 100px; */
 }
 .wrapper8 ul {
-  text-align: right;
+  margin: 0 auto;
+  width: 500px;
   padding-right: 60px;
 }
 
