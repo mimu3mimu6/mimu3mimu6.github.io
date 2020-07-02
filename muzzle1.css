@@ -428,6 +428,9 @@ main h2 {
   margin: 0 auto;
   text-align: center;
 }
+#main_image3 {
+  display: none;
+}
 .thumbnail {
   float: left;
   padding-right: 40px;
@@ -459,9 +462,7 @@ main h2 {
   list-style: none;
   text-align: center;
 }
-/* .small {
-  display: none;
-} */
+
 .gallery3 {
   display: none;
 /*   width: 800px;
