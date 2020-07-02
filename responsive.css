@@ -131,7 +131,8 @@ footer ul li {
 }
 
 footer ul li a {
-  color: #fff;
+/*   color: #fff; */
+  color: blue;
 }
 footer ul li a:link {
   text-decoration: none;
@@ -295,16 +296,8 @@ footer ul li a {
 .gallery {
     display: none;
 }
-.wrapper8 {
-  display: none;
-}
   
-.gallery3 {
-  display: block;
-  width: 500px;
-  margin: 0 auto;
-  text-align: center;
-}
+
 .wrapper9 {
   display: block;
   margin: 0 auto;
@@ -324,36 +317,29 @@ footer ul li a {
 
 
 
-/* .gallery {
-  width: 800px;
+ .gallery3 {
+  display: block;
+  width: 500px;
   margin: 0 auto;
-  padding-bottom: 80px;
+  padding-bottom: 40px;
   text-align: center;
 }
 
-#main_image {
-  margin: 0 auto;
-  text-align: center;
-}
-.thumbnail {
-  float: left;
-  padding-right: 40px;
-}
-.wrapper8 {
+.wrapper9 {
   margin: 0 auto;
   width: 500px;
 /*   text-align: center; */
 /*   padding-left: 100px; */
 }
-.wrapper8 ul {
+.wrapper9 ul {
   margin: 0 auto;
   width: 450px;
   text-align: center;
 }
-.wrapper8 ul li {
+.wrapper9 ul li {
   margin-top :20px;
   list-style: none;
-} */
+} 
 
 
 
