@@ -459,9 +459,9 @@ main h2 {
   list-style: none;
   text-align: center;
 }
-.small {
+/* .small {
   display: none;
-}
+} */
 .gallery3 {
   display: none;
 /*   width: 800px;
