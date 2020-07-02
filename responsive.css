@@ -132,7 +132,7 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: blue;
+  color: red;
 }
 footer ul li a:link {
   text-decoration: none;
@@ -321,7 +321,7 @@ footer ul li a {
   display: block;
   width: 500px;
   margin: 0 auto;
-  padding-bottom: 40px;
+  padding-bottom: 80px;
   text-align: center;
 }
 
@@ -337,7 +337,7 @@ footer ul li a {
   text-align: center;
 }
 .wrapper9 ul li {
-  margin-top :20px;
+  margin-top : 0px;
   list-style: none;
 } 
 
