@@ -297,7 +297,12 @@ footer ul li a {
   padding-bottom: 80px;
   text-align: center;
 }
-
+.big {
+  display: none;
+}
+.small {
+display: block;
+}
   
 /* .gallery {
     display: none;
