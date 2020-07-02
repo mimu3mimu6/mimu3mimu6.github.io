@@ -131,8 +131,7 @@ footer ul li {
 }
 
 footer ul li a {
-/*   color: #fff; */
-  color: blue;
+  color: #fff;
 }
 footer ul li a:link {
   text-decoration: none;
@@ -363,7 +362,13 @@ footer ul li a {
 }  
   
 
-
+.comment {
+  margin: 10px auto;
+  width: 500px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+}
 
 
 
