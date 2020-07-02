@@ -300,11 +300,13 @@ footer ul li a {
 }
   
 .gallery3 {
+  display: block;
   width: 500px;
   margin: 0 auto;
   text-align: center;
 }
 .wrapper9 {
+  display: block;
   margin: 0 auto;
   float: left;
   text-align: center;
