@@ -225,7 +225,7 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: blue;
+  color: red;
 }
 
 
@@ -428,7 +428,7 @@ main h2 {
   text-align: center;
 }
 .thumbnail {
-  float: left;
+/*   float: left; */
   padding-right: 40px;
 }
 .wrapper8 {
