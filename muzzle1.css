@@ -297,6 +297,10 @@ text-decoration: underline;
   padding-bottom: 20px;
   font-size: 30px;
 }
+
+.container6 {
+  display: none;
+}
 main h2 {
   font-size: 30px;
   text-align: left;
