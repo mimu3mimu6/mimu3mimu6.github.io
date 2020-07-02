@@ -51,7 +51,10 @@ main {
   background-color: rgb(242,210,172);
   margin: 0 auto;
 }
-
+.main_photo {
+  margin: 0 auto;
+  text-align: center;	
+}
 #main_image {
   margin: 0 auto;
   text-align: center;
