@@ -132,7 +132,7 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: red;
+  color: blue;
 }
 footer ul li a:link {
   text-decoration: none;
@@ -284,10 +284,6 @@ footer ul li a {
   text-align: center;
 }
 
-  
-.gallery {
-    display: none;
-}
 #main_image {
   display: none;
 }
