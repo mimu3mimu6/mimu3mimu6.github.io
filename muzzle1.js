@@ -9,7 +9,7 @@ $('#text').hide();
 
  $(".thumbnail").on('mouseover touchend',function(){
     var dataUrl = $(this).attr('data-url');
-    $("#main-image").attr('src',dataUrl);
+    $("#main_image").attr('src',dataUrl);
 });
 
 
