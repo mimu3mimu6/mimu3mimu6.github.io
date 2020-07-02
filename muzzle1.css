@@ -225,7 +225,7 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: black;
+  color: blue;
 }
 
 
@@ -281,8 +281,6 @@ text-decoration: underline;
   background-color: rgb(182,203,128);
   margin: 0 auto;
 }
-
-
 
 .page2 {
   background-color: rgb(235,198,200);
@@ -442,7 +440,7 @@ main h2 {
 .wrapper8 ul {
   float: left;
   margin: 0 auto;
-  width: 500px;
+  width: 400px;
 }
 .wrapper8 ul li {
   list-style: none;
