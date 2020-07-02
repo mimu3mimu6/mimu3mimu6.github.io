@@ -276,8 +276,13 @@ footer ul li a {
 /*   margin-bottom: px; */
 }
   
-  
-  
+.container4 {
+  display: none;
+}
+.container6 {
+  display: block;
+  text-align: center;
+}
   
   
 }
