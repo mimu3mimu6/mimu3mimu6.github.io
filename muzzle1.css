@@ -225,8 +225,19 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: blue;
+  color: black;
 }
+
+
+
+
+
+
+
+
+
+
+
 footer ul li a:link {
   text-decoration: none;
 }
@@ -424,20 +435,18 @@ main h2 {
 }
 .wrapper8 {
   margin: 0 auto;
-  float: left;
-/*   text-align: center; */
   width: 500px;
+/*   text-align: center; */
 /*   padding-left: 100px; */
 }
 .wrapper8 ul {
+  float: left;
   margin: 0 auto;
   width: 500px;
-  padding-right: 60px;
-  text-align: center;
 }
 .wrapper8 ul li {
   list-style: none;
-  text-align: center;
+  padding-right: 50px;
 }
 
 .gallery2 {
