@@ -132,7 +132,7 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: blue;
+  color: red;
 }
 footer ul li a:link {
   text-decoration: none;
@@ -283,18 +283,21 @@ footer ul li a {
   padding-bottom: 80px;
   text-align: center;
 }
-.big {
+
+  
+.gallery {
+    display: none;
+}
+#main_image {
   display: none;
 }
-.small {
-display: block;
-}
   
-/* .gallery {
-    display: none;
-} */
-
-/* .gallery3 {
+#main_image3 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.gallery3 {
   display: block;
   width: 500px;
   margin: 0 auto;
@@ -321,7 +324,7 @@ display: block;
   margin-top : 20px;
   list-style: none;
 } 
- */
+
 
 
 
