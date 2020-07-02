@@ -428,17 +428,16 @@ main h2 {
   text-align: center;
 }
 .thumbnail {
-/*   float: left; */
+  float: left;
   padding-right: 40px;
 }
 .wrapper8 {
-  margin: 0 auto;
+  margin: 20px auto;
   width: 500px;
 /*   text-align: center; */
 /*   padding-left: 100px; */
 }
 .wrapper8 ul {
-  float: left;
   margin: 0 auto;
   width: 400px;
 }
