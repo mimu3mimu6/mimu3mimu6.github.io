@@ -299,8 +299,18 @@ footer ul li a {
   display: none;
 }
   
-  
-  
+.gallery3 {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+.wrapper9 {
+  margin: 0 auto;
+  float: left;
+  text-align: center;
+  width: 500px;
+/*   padding-left: 100px; */
+}
   
   
   
