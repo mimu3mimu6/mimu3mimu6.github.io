@@ -55,10 +55,7 @@ main {
   margin: 0 auto;
   text-align: center;	
 }
-#main_image {
-  margin: 0 auto;
-  text-align: center;
-}
+
 main h1 {
   font-size: 30px;
   text-align: left;
@@ -228,7 +225,7 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: red;
+  color: blue;
 }
 footer ul li a:link {
   text-decoration: none;
@@ -417,13 +414,13 @@ main h2 {
   text-align: center;
 }
 
+#main_image {
+  margin: 0 auto;
+  text-align: center;
+}
 .thumbnail {
   float: left;
   padding-right: 40px;
-}
-.gallery ul li {
-  list-style: none;
-  text-align: center;
 }
 .wrapper8 {
   margin: 0 auto;
@@ -432,12 +429,16 @@ main h2 {
   width: 500px;
 /*   padding-left: 100px; */
 }
-/* .wrapper8 ul {
+.wrapper8 ul {
   margin: 0 auto;
   width: 500px;
   padding-right: 60px;
   text-align: center;
-} */
+}
+.wrapper8 ul li {
+  list-style: none;
+  text-align: center;
+}
 
 .gallery2 {
   width: 1000px;
