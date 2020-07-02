@@ -225,7 +225,7 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: white;
+  color: red;
 }
 
 
@@ -440,8 +440,8 @@ main h2 {
 }
 .wrapper8 ul {
 /*   margin: 0 auto;
-  width: 450px;
-  text-align: center; */
+  width: 450px; */
+  text-align: center;
 }
 .wrapper8 ul li {
   margin-top :20px;
