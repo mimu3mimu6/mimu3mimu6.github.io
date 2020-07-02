@@ -338,9 +338,9 @@ footer ul li a {
 }
 .container_item p {
   font-weight: bold;
-  font-size: 8px;
+  font-size: 12px;
   text-align: center;
-  margin: 15px;
+  margin: 10px;
 }
 
 .item {
@@ -367,7 +367,7 @@ footer ul li a {
   width: 500px;
   text-align: center;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 9px;
 }
 
 
