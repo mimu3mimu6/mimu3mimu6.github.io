@@ -412,7 +412,7 @@ main h2 {
 
 .gallery {
   width: 800px;
-  margin: 20px auto 200px auto;
+  margin: 0 auto;
   text-align: center;
 }
 
@@ -435,6 +435,7 @@ main h2 {
   margin: 0 auto;
   width: 500px;
   padding-right: 60px;
+  text-align: center;
 }
 
 .gallery2 {
