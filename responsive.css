@@ -292,7 +292,12 @@ footer ul li a {
 }
 
   
-  
+.gallery {
+    display: none;
+}
+.wrapper8 {
+  display: none;
+}
   
   
   
