@@ -12,7 +12,13 @@ $('#text').hide();
     $("#main_image").attr('src',dataUrl);
 });
 
-
+ $(".thumbnail").on('mouseover touchend',function(){
+    var dataUrl = $(this).attr('data-url');
+    $("#main_image3").attr('src',dataUrl);
+});
+  
+  
+  
   
 });
 
