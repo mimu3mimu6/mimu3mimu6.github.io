@@ -52,7 +52,7 @@ main {
   margin: 0 auto;
 }
 
-.main_image {
+#main_image {
   margin: 0 auto;
   text-align: center;
 }
@@ -412,10 +412,7 @@ main h2 {
   margin: 20px auto 200px auto;
   text-align: center;
 }
-#main-image {
-  width: 600px;
-  margin: 0 auto;
-}
+
 .thumbnail {
   float: left;
   padding-right: 40px;
@@ -464,7 +461,7 @@ main h2 {
 }
 
 
-#main-image2 {
+#main_image2 {
   width: 300px;
   margin: 20px auto;
 }
