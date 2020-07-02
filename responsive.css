@@ -291,7 +291,15 @@ footer ul li a {
   width: 500px;
   padding-left: 50px;
 }
-
+.gallery {
+  width: 560px;
+  margin: 0 auto;
+  padding-bottom: 80px;
+  text-align: center;
+}
+  .gallery dt img {
+    width:400px;
+}
   
 /* .gallery {
     display: none;
