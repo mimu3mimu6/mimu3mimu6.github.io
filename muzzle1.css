@@ -225,7 +225,7 @@ footer ul li {
 
 footer ul li a {
 /*   color: #fff; */
-  color: blue;
+  color: red;
 }
 
 
@@ -420,6 +420,7 @@ main h2 {
 .gallery {
   width: 800px;
   margin: 0 auto;
+  padding-bottom: 50px;
   text-align: center;
 }
 
@@ -439,11 +440,11 @@ main h2 {
 }
 .wrapper8 ul {
   margin: 0 auto;
-  width: 400px;
+  width: 450px;
+  text-align: center;
 }
 .wrapper8 ul li {
   list-style: none;
-  padding-right: 50px;
 }
 
 .gallery2 {
