@@ -273,7 +273,9 @@ footer ul li {
   width: 480px;
   line-height: 1.0;
   font-size: 7px;
-  color: red;
+  color: blue;
+  margin-top: 20px;
+/*   margin-bottom: px; */
 }
   
   
