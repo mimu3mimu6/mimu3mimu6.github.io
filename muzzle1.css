@@ -194,6 +194,9 @@ nav ul li a:active{
 .btn-img2 {
   display: none;
 }
+.btn-img3 {
+  display: none;
+}
 .comment {
   margin: 20px auto;
   width: 800px;
