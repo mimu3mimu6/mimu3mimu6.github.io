@@ -390,6 +390,9 @@ main h2 {
   display: none;
   float: left;
 }
+.mask4 {
+  display: none;
+}
 .container5 {
   max-width: 1000px;
   margin: 0 auto;
