@@ -739,10 +739,10 @@ text-decoration: underline;
   text-align: center;
   font-weight: bold;
   font-size: 10px;
-  color: red;
+  color: blue;
 }
 .comment2 p {
-    line-height: 1.0;
+    line-height: 0.5;
 }
 .comment {
   display: none;
