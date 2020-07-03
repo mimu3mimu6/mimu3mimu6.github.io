@@ -788,7 +788,18 @@ text-decoration: underline;
  font-size: 8px;
 }   
   
-  
+.wrapper6 {
+  font-size: 10px;
+  margin: 0px auto;
+  margin-top: 20px;
+  text-align: left;
+  width: 100%;
+}
+.wrapper6 p {
+  font-weight: bold;
+  line-height: 1.0;
+  padding-left: 40px;
+}
   
   
 }
