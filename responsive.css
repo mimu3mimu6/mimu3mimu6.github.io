@@ -57,12 +57,7 @@ main h1 {
   width: 560px;
   }
   
-  
-  
-  
-  
-  
-  nav ul {
+nav ul {
   width: 560px;
   text-align: center;
   /*   下のautoを30にする*/
@@ -368,7 +363,8 @@ footer ul li a {
   width: 560px;
   text-align: center;
   font-weight: bold;
-  font-size: 9px;
+  font-size: 10px;
+  color: rgb(255, 58, 59);
 }
 
 
@@ -740,7 +736,7 @@ text-decoration: underline;
   text-align: center;
   font-weight: bold;
   font-size: 10px;
-  color: red;
+  color: rgb(255, 58, 59);
 }
 .comment2 p {
     line-height: 0.5;
