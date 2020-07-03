@@ -651,7 +651,7 @@ text-decoration: underline;
   text-align: left;
   width: 300px;
   padding-left: 0px;
-  color: blue;
+  color: red;
 }
 
 #main_image3 {
@@ -694,7 +694,7 @@ text-decoration: underline;
 .thumbnail_2 {
   display: block;	
   float: left;
-  padding-right: 12px;
+  padding-right: 20px;
 }
   
   
