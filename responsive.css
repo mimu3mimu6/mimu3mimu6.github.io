@@ -630,7 +630,10 @@ text-decoration: underline;
   font-size: 10px;
   margin-top: 10px;
 }
-  
+.sample {
+  width: 400px;
+  margin: 0 auto;
+}
 
   
 }
