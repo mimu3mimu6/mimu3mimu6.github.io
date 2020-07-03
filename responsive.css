@@ -791,8 +791,8 @@ text-decoration: underline;
 .wrapper6 {
   font-size: 10px;
   margin: 0px auto;
-  margin-top: 20px;
-/*   text-align: left; */
+  margin-top: 30px;
+  text-align: center;
   width: 100%;
 }
 .wrapper6 p {
