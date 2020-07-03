@@ -697,6 +697,44 @@ text-decoration: underline;
   padding-right: 20px;
 }
   
+.btn-img2 {
+  display: none;
+}
+.container_item {
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+}
+.container_item h1 {
+  color: red;
+  font-weight: bold;
+  font-size: 15px;
+}
+.container_item p {
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+  margin: 5px;
+}
+
+.item {
+  float: left;
+  margin: 0 10px 10px 10px;
+}  
+  
+  
+.btn-img3{
+  display: block;
+  border-style: none;
+}
+.btn-img3:hover{
+  opacity: 0.6;
+}  
+  
+  
+  
+  
+  
   
   
   
