@@ -203,6 +203,12 @@ nav ul li a:active{
   text-align: center;
   font-weight: bold;
 }
+
+.comment2 {
+  display: none;
+}
+
+
 h4 {
   /* margin-top:10px; */
   font-size: 10px;
