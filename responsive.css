@@ -670,7 +670,25 @@ text-decoration: underline;
   text-align: center;
 }
   
-  
+.thumbnail {
+  float: left;
+  padding-right: 10px;
+}
+.wrapper8 {
+  margin: 0 auto;
+  width: 100%;
+/*   text-align: center; */
+/*   padding-left: 100px; */
+}
+.wrapper8 ul {
+  margin: 0 auto;
+  width: 400px;
+  text-align: center;
+}
+.wrapper8 ul li {
+  margin-top :20px;
+  list-style: none;
+}
   
   
   
