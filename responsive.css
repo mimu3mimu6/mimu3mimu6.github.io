@@ -622,7 +622,7 @@ text-decoration: underline;
 }
   
 .copy_text {
-  text-align: center;
+  text-align: left;
   padding-top: 0px;
   font-weight: bold;
   width: 100%;
