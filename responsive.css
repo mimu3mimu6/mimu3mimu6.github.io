@@ -685,7 +685,7 @@ text-decoration: underline;
   margin: 0 auto;
   width: 400px;
   text-align: center;
-  padding-left: 60px;
+  padding-left: 50px;
 }
 .wrapper8 ul li {
   margin-top :20px;
@@ -740,7 +740,7 @@ text-decoration: underline;
   text-align: center;
   font-weight: bold;
   font-size: 10px;
-  color: blue;
+  color: red;
 }
 .comment2 p {
     line-height: 0.5;
