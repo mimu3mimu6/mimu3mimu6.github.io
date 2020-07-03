@@ -739,10 +739,11 @@ text-decoration: underline;
   text-align: center;
   font-weight: bold;
   font-size: 10px;
-  line-height: 1.0;
-  color: blue;
+  color: red;
 }
-  
+.comment2 p {
+    line-height: 1.0;
+}
 .comment {
   display: none;
 }
