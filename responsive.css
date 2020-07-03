@@ -367,7 +367,17 @@ footer ul li a {
   color: rgb(255, 58, 59);
 }
 
-
+.wrapper6 {
+    font-size: 12px;
+    margin: 0 auto;
+    text-align: left;
+    width: 500px;
+    padding-left: 0px;
+}
+.wrapper6 p {
+  font-weight: bold;
+  line-height: 0.5;
+}
 
 
 
