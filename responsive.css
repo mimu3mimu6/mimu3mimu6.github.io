@@ -789,13 +789,14 @@ text-decoration: underline;
 }   
   
 .wrapper6 {
-  font-size: 8px;
+  font-size: 10px;
   margin: 0px auto;
   margin-top: 20px;
-  text-align: left;
+/*   text-align: left; */
   width: 100%;
 }
 .wrapper6 p {
+  text-align: left;
   font-weight: bold;
   line-height: 1.0;
   padding-left: 0px;
