@@ -651,7 +651,7 @@ text-decoration: underline;
   text-align: left;
   width: 300px;
   padding-left: 0px;
-  color: blue;
+  color: red;
 }
 
 #main_image3 {
@@ -664,7 +664,7 @@ text-decoration: underline;
   text-align: center;
 }
 .gallery {
-  width: 450px;
+  width: 100%;
   margin: 0 auto;
   padding-bottom: 80px;
   text-align: center;
