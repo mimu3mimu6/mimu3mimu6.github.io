@@ -600,7 +600,14 @@ text-decoration: underline;
   font-weight: bold;
   line-height: 1.0;
   padding-left: 40px;
-  color: red;
+  color: blue;
+}
+.container5 {
+  width: 350px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  padding: 20px;
+  text-align: center;
 }
   
 .mask3 {
