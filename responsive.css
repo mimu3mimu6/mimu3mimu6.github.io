@@ -610,7 +610,7 @@ text-decoration: underline;
   
 .mask3 {
   display: block;
-  float: clear;
+  clear: left;
   padding-right: 0px;
   margin: 0 auto;
   text-align: center;
