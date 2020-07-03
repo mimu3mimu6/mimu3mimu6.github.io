@@ -665,7 +665,7 @@ text-decoration: underline;
 .gallery {
   width: 100%;
   margin: 0 auto;
-  padding-bottom: 80px;
+  padding-bottom: 60px;
   text-align: center;
 }
   
@@ -700,7 +700,7 @@ text-decoration: underline;
   display: none;
 }
 .container_item {
-  width: 500px;
+  width: 300px;
   text-align: center;
   margin: 0 auto;
 }
@@ -736,8 +736,8 @@ text-decoration: underline;
   width: 100%;
   text-align: center;
   font-weight: bold;
-  font-size: 9px;
-  color: blue;
+  font-size: 8px;
+  color: red;
 }
   
   
