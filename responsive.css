@@ -663,7 +663,12 @@ text-decoration: underline;
   margin-top: 10px;
   text-align: center;
 }
-  
+.gallery {
+  width: 450px;
+  margin: 0 auto;
+  padding-bottom: 80px;
+  text-align: center;
+}
   
   
   
