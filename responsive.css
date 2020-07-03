@@ -600,12 +600,12 @@ text-decoration: underline;
   font-weight: bold;
   line-height: 1.0;
   padding-left: 40px;
-  color: blue;
+  color: red;
 }
 .container5 {
   width: 350px;
   margin: 0 auto;
-  margin-bottom: 40px;
+/*   margin-bottom: 40px; */
   padding: 20px;
   text-align: center;
 }
@@ -615,7 +615,7 @@ text-decoration: underline;
   padding-right: 0px;
   margin: 0 auto;
   text-align: center;
-  width: 250px;
+  width: 100%;
 }
   
 .copy_text {
