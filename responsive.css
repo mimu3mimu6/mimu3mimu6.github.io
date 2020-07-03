@@ -608,8 +608,10 @@ text-decoration: underline;
   padding: 10px;
   text-align: center;
 }
-  
 .mask3 {
+  display: none;
+}
+.mask4 {
   clear: left;
   padding-right: 0px;
   padding-bottom: 10px;
