@@ -749,7 +749,7 @@ text-decoration: underline;
   color: rgb(255, 58, 59);
 }
 .comment2 p {
-    line-height: 0.5;
+    line-height: 1.0;
 }
 .comment {
   display: none;
