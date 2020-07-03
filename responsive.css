@@ -609,6 +609,24 @@ text-decoration: underline;
   color: blue;
 }
   
+.mask3 {
+  display: block;
+  float: left;
+  padding-right: 0px;
+  margin: 0 auto;
+  text-align: center;
+}
+  
+.copy_text {
+  text-align: center;
+  padding-top: 0px;
+  font-weight: bold;
+  width: 100%;
+  line-height: 1.0;
+  font-size: 7px;
+  margin-top: 10px;
+}
+  
   
   
 }
