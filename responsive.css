@@ -381,6 +381,19 @@ footer ul li a {
 }
 
 
+
+#text {
+ text-align: center;
+ font-size: 10px;
+}  
+  
+  
+  
+  
+  
+  
+  
+  
 }
 
 /* スマホ向けレイアウト */
@@ -755,7 +768,10 @@ text-decoration: underline;
   display: none;
 }
   
-  
+#text {
+ text-align: center;
+ font-size: 8px;
+}   
   
   
   
