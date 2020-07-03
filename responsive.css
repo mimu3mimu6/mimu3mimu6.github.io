@@ -654,8 +654,15 @@ text-decoration: underline;
   color: blue;
 }
 
-  
-  
+#main_image3 {
+  display: none;
+}
+#main_image4 {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  text-align: center;
+}
   
   
   
