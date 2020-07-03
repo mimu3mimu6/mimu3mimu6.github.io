@@ -461,8 +461,7 @@ nav ul li a {
   border-top: 2px solid black;
   border-right: 2px solid black;
   text-decoration: none;
-/*   color: #fff; */
-  color: white;
+  color: #fff;
   background-color: rgb(193, 84, 25);
 }
 
@@ -601,12 +600,13 @@ text-decoration: underline;
   font-size: 10px;
   margin: 20px auto;
   text-align: left;
-  width: 300px;
+  width: 100%;
 }
 .wrapper5 p {
   font-weight: bold;
   line-height: 1.0;
   padding-left: 20px;
+  color: blue;
 }
   
   
