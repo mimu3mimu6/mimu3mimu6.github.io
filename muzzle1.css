@@ -149,7 +149,7 @@ nav ul li a:active{
 
 .copy_text {
   text-align: left;
-  padding-top: 30px;
+  padding-top: 20px;
   font-weight: bold;
   width: 1000px;
   color: rgb(255, 58, 59);
@@ -202,6 +202,7 @@ nav ul li a:active{
   width: 800px;
   text-align: center;
   font-weight: bold;
+  color: rgb(255, 58, 59);
 }
 
 .comment2 {
@@ -235,19 +236,8 @@ footer ul li {
 }
 
 footer ul li a {
-/*   color: #fff; */
-  color: white;
+  color: #fff;
 }
-
-
-
-
-
-
-
-
-
-
 
 footer ul li a:link {
   text-decoration: none;
