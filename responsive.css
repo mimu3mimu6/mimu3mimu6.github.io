@@ -612,6 +612,7 @@ text-decoration: underline;
   display: none;
 }
 .mask4 {
+  display: block;
   clear: left;
   padding-right: 0px;
   padding-bottom: 10px;
