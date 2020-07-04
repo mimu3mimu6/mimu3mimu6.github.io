@@ -844,7 +844,7 @@ text-decoration: underline;
   
   
 main h2 {
-  font-size: 12px;
+  font-size: 11px;
   text-align: center;
   margin: 0 auto;
 }  
@@ -862,13 +862,13 @@ main h2 {
   font-weight: bold;
   text-align: left;
   width: 370px;
-  margin: 10px auto;
+  margin: 20px auto;
   border-left: 6px solid brown;
   padding-left: 10px;
-  font-size: 10px;
+  font-size: 9px;
 }
 .wrapper2 {
-  margin: 20px auto;
+  margin: 30px auto;
   text-align: center;
   width: 100%;
 }
