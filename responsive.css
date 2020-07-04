@@ -501,6 +501,7 @@ main {
   display: block;
   margin: 0 auto;
   text-align: center;
+  width: 100%;
 }
 main h1 {
   font-size: 15px;
