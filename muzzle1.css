@@ -184,6 +184,10 @@ nav ul li a:active{
   margin: 0 auto;
 }
 
+.sub_text3 {
+  display: none;
+}
+
 .container_item {
   clear: left;
   width: 1000px;
