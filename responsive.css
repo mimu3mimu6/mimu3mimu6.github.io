@@ -402,7 +402,14 @@ footer ul li a {
  font-size: 10px;
 }  
   
-  
+.language-title {
+  width: 560px;
+  padding-left: 20px;
+  color: brown;
+  cursor: pointer;
+  margin: 0 auto;
+/* 	display: block; */
+}
   
   
   
@@ -583,6 +590,14 @@ text-decoration: underline;
   text-align: center;
   font-size: 10px;
 } 
+.language-title {
+  width: 350px;
+  padding-left: 20px;
+  color: brown;
+  cursor: pointer;
+  margin: 0 auto;
+/* 	display: block; */
+}
   
 .copy_text2 {
   display: none;
