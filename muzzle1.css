@@ -506,7 +506,7 @@ main h2 {
 }
 .wrapper10 p {
  font-weight: bold;
- line-height: 10px;
+ line-height: 1.0;
 }
 .prof {
  display: none;
