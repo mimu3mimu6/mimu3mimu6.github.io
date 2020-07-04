@@ -333,6 +333,7 @@ footer ul li a {
   width: 600px;
   text-align: center;
   margin: 0 auto;
+  margin-top: 20px;
 }
 .container_item h1 {
   color: red;
