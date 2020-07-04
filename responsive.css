@@ -835,4 +835,41 @@ text-decoration: underline;
 }
   
   
+  
+  
+ .copy_text5 {
+  font-weight: bold;
+  text-align: left;
+  width: 370px;
+  margin: 20px auto;
+  border-left: 6px solid gray;
+  padding-left: 10px;
+  font-size: 10px;
+}
+.copy_text6 {
+  font-weight: bold;
+  text-align: left;
+  width: 370px;
+  margin: 10px auto;
+  border-left: 6px solid brown;
+  padding-left: 10px;
+  font-size: 10px;
+}
+.wrapper2 {
+  margin: 20px auto;
+  text-align: center;
+  width: 100%;
+}
+.wrapper2 p {
+  font-weight: bold;
+  line-height: 1.0;
+  margin: 10px auto;
+}   
+  
+  
+  
+  
+  
+  
+  
 }
