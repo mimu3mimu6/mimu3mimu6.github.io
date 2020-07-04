@@ -210,7 +210,10 @@ nav ul li a:active{
   display: none;
 }
 
-
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
 h4 {
   /* margin-top:10px; */
   font-size: 10px;
