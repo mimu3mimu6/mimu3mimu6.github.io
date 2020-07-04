@@ -125,7 +125,8 @@ nav ul li a:active{
 }
 .language-title {
   padding-left: 100px;
-  color: brown;
+/*   color: brown; */
+  color: blue;
   cursor: pointer;
   margin: 0px;
 /* 	display: block; */
