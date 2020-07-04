@@ -455,6 +455,7 @@ h3 {
   
   
 .container8 {
+  clear: left;
   width: 600px;
   margin: 0 auto;
   margin-bottom: 0px;
