@@ -398,7 +398,12 @@ footer ul li a {
 #text {
  text-align: center;
  font-size: 10px;
-}  
+}
+#text2 {
+ text-align: center;
+ font-size: 12px;
+ line-height: 1.0;
+}
 .language-title {
   width: 560px;
   padding-left: 20px;
