@@ -261,6 +261,7 @@ footer ul li a {
   display: block;
   float: left;
   padding-right: 20px;
+  margin-bottom: 20px;
 }
 .copy_text {
   text-align: left;
