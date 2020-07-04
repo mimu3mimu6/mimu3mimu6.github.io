@@ -138,7 +138,12 @@ nav ul li a:active{
   margin-top: 40px;
   margin-bottom: 30px;
 }
-
+.new2 {
+  display: none;
+}
+.new3 {
+  display: none;
+}
 .mask {
   float: left;
   margin-left: 52px;
