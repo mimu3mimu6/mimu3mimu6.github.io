@@ -591,11 +591,12 @@ text-decoration: underline;
   font-size: 10px;
 } 
 .language-title {
-  width: 350px;
+  width: 200px;
   padding-left: 20px;
   color: brown;
   cursor: pointer;
   margin: 0 auto;
+  text-align: left;
 /* 	display: block; */
 }
   
