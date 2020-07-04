@@ -23,7 +23,7 @@ header img {
 .header-list li {
   list-style: none;
   float: right;
-  width: 100px;
+/*   width: 100px; */
   padding: 0 20px;
 }
 .header-list li a {
