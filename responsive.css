@@ -44,7 +44,14 @@ main {
   /* width: 844px; */
   /* text-align: center; */
 }
-
+.main_photo {
+  display: none;
+}
+.main_photo2 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
 main h1 {
   font-size: 15px;
   text-align: left;
@@ -487,7 +494,14 @@ main {
   /* width: 844px; */
   /* text-align: center; */
 }
-
+.main_photo2 {
+  display: none;
+}
+.main_photo3 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
 main h1 {
   font-size: 15px;
   text-align: left;
