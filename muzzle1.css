@@ -151,6 +151,9 @@ nav ul li a:active{
   margin-right: 20px;
   /* margin-bottom: 20px; */
 }
+.note {
+  line-height: 1.0;
+}
 .note2 {
   display: none;
 }
