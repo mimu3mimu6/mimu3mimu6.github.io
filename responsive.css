@@ -668,9 +668,13 @@ text-decoration: underline;
   margin-right: 0px;
 }
 #text {
-  text-align: center;
-  font-size: 10px;
+  display: none;
 } 
+#text2 {
+  display: block;
+  text-align: center;
+  font-size: 10px
+}
 .language-title {
   width: 300px;
   padding-left: 20px;
