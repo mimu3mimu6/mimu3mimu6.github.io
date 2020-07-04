@@ -666,9 +666,12 @@ text-decoration: underline;
   text-align: center;
   margin-right: 0px;
 }
-#text {
+.note {
   display: none;
 } 
+.note2 {
+  display: block;
+}
 #text2 {
   display: block;
   text-align: center;
