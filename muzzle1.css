@@ -209,7 +209,9 @@ nav ul li a:active{
 .comment2 {
   display: none;
 }
-
+h2 {
+  color: rgb(32, 112, 222);	
+}
 h3 {
   font-size: 18px;
   font-weight: bold;
