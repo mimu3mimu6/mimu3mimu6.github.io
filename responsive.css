@@ -481,7 +481,11 @@ h3 {
   line-height: 1.0;
   font-size: 6px;
   margin-top: 20px;
-}  
+} 
+  
+h4 {
+  font-size: 8px;
+}
 .note {
   display: none;
 } 
