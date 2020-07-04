@@ -158,7 +158,9 @@ nav ul li a:active{
   padding: 10px;
   text-align: center;
   }
-
+.container p {
+  font-weight: bold;
+}
 .copy_text {
   text-align: left;
   padding-top: 20px;
