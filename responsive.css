@@ -561,27 +561,30 @@ text-decoration: underline;
   text-align: center;
 }
   
-  .prof_image {
+.prof_image {
     display: none;
 }
-  .prof {
+.prof {
     display: block;
     text-align: center;
     font-weight: bold;
     font-size: 12px;
     line-height: 1.0;
-  }
+}
   
-  .container {
-  display: none;
+.container {
   width: 100%;
   margin: 0px 0px;
   padding-left: 10px;
   text-align: center;
   margin-right: 0px;
-  }
+}
+#text {
+  text-align: center;
+  font-size: 8px;
+} 
   
-  .copy_text2 {
+.copy_text2 {
   display: none;
   width: 350px;
   margin-top: 0px;
@@ -783,10 +786,7 @@ text-decoration: underline;
   display: none;
 }
   
-#text {
- text-align: center;
- font-size: 8px;
-}   
+  
   
 .wrapper6 {
   font-size: 10px;
