@@ -55,7 +55,12 @@ main {
   margin: 0 auto;
   text-align: center;	
 }
-
+.main_photo2 {
+  display: none;	
+}
+.main_photo3 {
+  display: none;
+}
 main h1 {
   font-size: 30px;
   text-align: left;
