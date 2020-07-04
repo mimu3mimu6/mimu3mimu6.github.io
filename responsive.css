@@ -391,9 +391,11 @@ footer ul li a {
   margin: 0 auto;
 }
   
-
-  
-  
+main h2 {
+  font-size: 18px;
+  text-align: center;
+  margin: 0 auto;
+}
  .copy_text5 {
   font-weight: bold;
   text-align: left;
@@ -835,7 +837,11 @@ text-decoration: underline;
 }
   
   
-  
+main h2 {
+  font-size: 12px;
+  text-align: center;
+  margin: 0 auto;
+}  
   
  .copy_text5 {
   font-weight: bold;
