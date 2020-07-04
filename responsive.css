@@ -807,12 +807,13 @@ text-decoration: underline;
   margin: 0px auto;
   margin-top: 30px;
   text-align: center;
-  width: 350px;
+  width: 330px;
 }
 .wrapper6 p {
   font-weight: bold;
   line-height: 1.0;
   padding-left: 0px;
+  color: blue;
 }
   
   
