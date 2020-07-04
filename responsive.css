@@ -57,7 +57,14 @@ main h1 {
   text-align: left;
   margin: 10px;
 }
-  
+.new {
+  display: none;
+}
+.new2 {
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+}
 .wrapper {
   margin: 0 auto;
   text-align: center;
@@ -508,7 +515,14 @@ main h1 {
   text-align: left;
   margin: 10px;
 }
-  
+.new2 {
+  display: none;
+}
+.new3 {
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+} 
 .wrapper {
   margin: 0　auto;
   text-align: center;
