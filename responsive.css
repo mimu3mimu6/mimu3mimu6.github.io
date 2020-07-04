@@ -455,8 +455,8 @@ h3 {
 .container8 {
   width: 500px;
   margin: 0 auto;
-  margin-bottom: 70px;
-  padding: 20px;
+  margin-bottom: 0px;
+  padding: 10px;
   text-align: center;
 }
   
@@ -464,7 +464,7 @@ h3 {
   text-align: left;
   padding-top: 0px;
   font-weight: bold;
-  width: 480px;
+  width: 500px;
   line-height: 1.0;
   font-size: 6px;
   margin-top: 20px;
