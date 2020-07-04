@@ -495,6 +495,22 @@ h4 {
   
   
   
+.wrapper10 {
+  margin: 0 auto;
+  text-align: center;
+  width: 400px;
+}
+.wrapper10 p {
+ font-weight: bold;
+ line-height: 1.0;
+}
+.sub_text {
+  display: inline-block;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  margin: 0 auto;
+} 
   
   
   
