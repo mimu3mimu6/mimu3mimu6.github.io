@@ -315,13 +315,6 @@ footer ul li a {
   margin-top : 20px;
   list-style: none;
 } 
-
-
-
-
-
-  
-  
 .container_item {
   width: 600px;
   text-align: center;
@@ -338,13 +331,10 @@ footer ul li a {
   text-align: center;
   margin: 10px;
 }
-
 .item {
   float: left;
   margin: 0 10px 10px 10px;
 }  
-  
-  
 .btn-img2{
   display: block;
   border-style: none;
@@ -352,12 +342,9 @@ footer ul li a {
 .btn-img2:hover{
   opacity: 0.6;
 }
-  
 .btn-img {
   display: none;
 }  
-  
-
 .comment {
   display: none;
   margin: 10px auto;
@@ -367,7 +354,6 @@ footer ul li a {
   font-size: 10px;
   color: rgb(255, 58, 59);
 }
-
 .comment2 {
   display: block;
   clear: left;
@@ -379,7 +365,7 @@ footer ul li a {
   color: rgb(255, 58, 59);
 }
 .comment2 p {
-    line-height: 1.0;
+  line-height: 1.0;
 }
 .wrapper6 {
   font-size: 10px;
@@ -393,22 +379,55 @@ footer ul li a {
   line-height: 1.0;
   padding-left: 10px;
 }
-
-
-
 #text {
  text-align: center;
  font-size: 10px;
 }  
-  
 .language-title {
   width: 560px;
   padding-left: 20px;
   color: brown;
   cursor: pointer;
   margin: 0 auto;
-/* 	display: block; */
 }
+  
+
+  
+  
+ .copy_text5 {
+  font-weight: bold;
+  text-align: left;
+  width: 560px;
+  margin: 20px auto;
+  border-left: 6px solid gray;
+  padding-left: 10px;
+  font-size: 15px;
+}
+.copy_text6 {
+  font-weight: bold;
+  text-align: left;
+  width: 560px;
+  margin: 20px auto;
+  border-left: 6px solid brown;
+  padding-left: 10px;
+  font-size: 15px;
+}
+.wrapper2 {
+  margin: 30px auto;
+  text-align: center;
+  width: 100%;
+}
+.wrapper2 p {
+  font-weight: bold;
+  line-height: 1.0;
+  margin: 10px auto;
+} 
+  
+  
+  
+  
+  
+  
   
   
   
