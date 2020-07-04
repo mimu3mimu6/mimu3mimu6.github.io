@@ -840,6 +840,7 @@ text-decoration: underline;
   color: red;
   font-weight: bold;
   font-size: 15px;
+  margin-left: 0px;
 }
 .container_item p {
   font-weight: bold;
