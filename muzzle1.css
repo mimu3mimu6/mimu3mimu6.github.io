@@ -349,8 +349,8 @@ main h2 {
 }
 .wrapper2 p {
   font-weight: bold;
-  line-height: 10px;
-  margin: 10px 0;
+  line-height: 1.0;
+  margin: 10px auto;
 }
 .wrapper3 {
   font-size: 26px;
