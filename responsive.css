@@ -505,13 +505,21 @@ h4 {
  line-height: 1.0;
 }
 .sub_text {
-  display: inline-block;
+  display: none;
+/*   display: inline-block; */
   text-align: left;
   font-weight: bold;
   font-size: 8px;
   margin: 0 auto;
 } 
-  
+.sub_text3 {
+  display: block;
+/* display: inline-block; */
+  text-align: left;
+  font-weight: bold;
+  font-size: 10px;
+  margin: 0 auto;
+}
   
   
   
