@@ -472,8 +472,12 @@ h3 {
   font-size: 6px;
   margin-top: 20px;
 }  
-  
-  
+.note {
+  display: none;
+} 
+.note2 {
+  display: block;
+} 
   
   
   
@@ -666,12 +670,7 @@ text-decoration: underline;
   text-align: center;
   margin-right: 0px;
 }
-.note {
-  display: none;
-} 
-.note2 {
-  display: block;
-}
+
 #text2 {
   display: block;
   text-align: center;
