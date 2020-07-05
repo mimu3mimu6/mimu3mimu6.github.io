@@ -522,6 +522,19 @@ h4 {
 }
   
   
+.wrapper11 {
+  font-size: 10px;
+  margin: 30px auto;
+  text-align: left;
+  width: 500px;
+}
+.wrapper11 p {
+  font-weight: bold;
+  line-height: 1.0;
+  padding-left: 10px;
+}  
+  
+  
   
 }
 
@@ -1024,5 +1037,24 @@ main h2 {
   margin: 0 auto;
 }
    
+  
+.wrapper11 {
+  font-size: 10px;
+  margin: 20px auto;
+  text-align: left;
+  width: 100%;
+}
+.wrapper11 p {
+  font-weight: bold;
+  line-height: 1.0;
+  padding-left: 40px;
+}  
+  
+  
+  
+  
+  
+  
+  
   
 }
