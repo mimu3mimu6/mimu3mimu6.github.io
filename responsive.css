@@ -515,7 +515,7 @@ h4 {
 .sub_text3 {
   display: block;
 /* display: inline-block; */
-  text-align: left;
+  text-align: center;
   font-weight: bold;
   font-size: 10px;
   margin: 0 auto;
@@ -1012,9 +1012,18 @@ main h2 {
 .wrapper10 {
   margin: 0 auto;
   text-align: center;
-  width: 450px;
+  width: 100%;
 }
   
-  
+ .sub_text3 {
+  display: block;
+/* display: inline-block; */
+  text-align: center;
+  font-weight: bold;
+  font-size: 8px;
+  margin: 0 auto;
+   color: blue;
+}
+   
   
 }
