@@ -329,6 +329,7 @@ text-decoration: underline;
 }
 .container3 h2 {
   margin-top: 20px;
+  margin-bottom: 0px;
   text-align: center;
 }
 .photo {
