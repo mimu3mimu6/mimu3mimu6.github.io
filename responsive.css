@@ -922,7 +922,7 @@ text-decoration: underline;
 .comment2 {
   display: block;
   clear: left;
-  margin: 10px auto;
+  margin: 10px auto 20px auto;
   width: 100%;
   text-align: center;
   font-weight: bold;
