@@ -235,7 +235,7 @@ text-decoration: underline;
 .wrapper5 p {
   font-weight: bold;
   line-height: 1.0;
-  padding-left: 10px;
+  padding-left: 12px;
 }
 footer ul li a {
   display: inline;
@@ -430,7 +430,7 @@ h3 {
  .copy_text5 {
   font-weight: bold;
   text-align: left;
-  width: 400px;
+  width: 450px;
   margin: 20px auto;
   border-left: 6px solid gray;
   padding-left: 10px;
@@ -439,7 +439,7 @@ h3 {
 .copy_text6 {
   font-weight: bold;
   text-align: left;
-  width: 400px;
+  width: 450px;
   margin: 20px auto;
   border-left: 6px solid brown;
   padding-left: 10px;
