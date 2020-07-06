@@ -227,12 +227,12 @@ text-decoration: underline;
   margin-bottom: 10px;
 }
 .wrapper5 {
-  font-size: 13px;
   margin: 30px auto;
   text-align: left;
   width: 560px;
 }
 .wrapper5 p {
+  font-size: 13px;
   font-weight: bold;
   line-height: 1.0;
   padding-left: 10px;
