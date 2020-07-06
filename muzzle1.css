@@ -3,7 +3,9 @@ body {
   font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
   /* background-color: #CCCCCC; */
 }
-
+html,body{
+  height: 100%;
+}
 header {
   border-top: 2px solid rgb( 0, 0, 0);
   border-bottom: 2px solid rgb( 0, 0, 0);
@@ -51,6 +53,7 @@ header li a {
 main {
   background-color: rgb(242,210,172);
   margin: 0 auto;
+  position: relative;
 }
 .main_photo {
   margin: 0 auto;
@@ -255,6 +258,8 @@ footer {
   background-color: rgb(193, 84, 25);
   border-top: 2px solid rgb( 0, 0, 0);
   border-bottom: 2px solid rgb( 0, 0, 0);
+  position: absolute;
+  bottom: 0;
 }
 
 footer ul {
