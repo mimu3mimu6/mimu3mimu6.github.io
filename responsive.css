@@ -962,6 +962,7 @@ main h2 {
   text-align: left;
   width: 360px;
   margin: 20px auto;
+  margin-left: 10px;
   border-left: 6px solid gray;
   padding-left: 10px;
   font-size: 10px;
@@ -971,6 +972,7 @@ main h2 {
   text-align: left;
   width: 360px;
   margin: 20px auto;
+  margin-left: 10px;
   border-left: 6px solid brown;
   padding-left: 10px;
   font-size: 9px;
