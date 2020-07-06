@@ -223,6 +223,7 @@ nav ul li a:active{
   display: none;
 }
 .comment {
+  clear: left;
   margin: 20px auto;
   width: 800px;
   text-align: center;
@@ -231,6 +232,7 @@ nav ul li a:active{
 }
 
 .comment2 {
+  clear: left;
   display: none;
 }
 h2 {
