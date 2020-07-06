@@ -5,7 +5,7 @@
 /* タブレット向けレイアウト */
 
 /* ブレイクポイントが960px以下の時のメディアクエリを設定してください */
-@media (max-width: 960px) {
+@media screen and (max-width: 960px) {
 
   header {
   width: 100%;
@@ -541,7 +541,7 @@ h4 {
 /* スマホ向けレイアウト */
 
 /* ブレイクポイントが768px以下のときのメディアクエリを設定してください */
-@media (max-width: 559px) {
+@media screen and (max-width: 559px) {
 /*   .container {
     width: 30%;
   } */
