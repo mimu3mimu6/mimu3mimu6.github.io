@@ -33,7 +33,8 @@ header img {
   text-align: center;
 }
 header li a {
-  color: #fff;
+/*   color: #fff; */
+  color: blue;
 }
 .header-list li a:hover,
 .header-list li a:active,
